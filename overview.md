@@ -2,7 +2,6 @@
 
 {% method %}
 {% sample lang="" %}
-
 ```
 - root
   - [Participant ID]
