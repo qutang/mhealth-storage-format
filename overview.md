@@ -1,6 +1,8 @@
 # Directory overview
 
 {% method %}
+{% sample lang="" %}
+
 ```
 - root
   - [Participant ID]
