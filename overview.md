@@ -24,8 +24,8 @@
 
 1. Synchronized **sensor**, **event**, **annotation **files, stored in mhealth specification.
 
-2. Files are divided **hourly**, in folder _MasterSynced\/YYYY\/MM\/DD\/_
+2. Files are divided **hourly**, in folder `MasterSynced/YYYY/MM/DD/`
 
-3. sdf
-4. 
+
+## OriginalRaw
 
