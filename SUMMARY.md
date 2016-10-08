@@ -1,9 +1,8 @@
 # Summary
 
 ## Overview
-
 * [My Awesome API](README.md)
 
-## Methods
-
+## Directory structure
 * [Defining Methods](methods.md)
+
