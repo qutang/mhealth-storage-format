@@ -1,7 +1,7 @@
 # Summary
 
 ## Overview
-* [My Awesome API](README.md)
+* [mhealth specification](README.md)
 
 ## Directory structure
 * [Defining Methods](methods.md)

@@ -1,4 +1,4 @@
-# mhealth specification
+# mHealth Specification
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+mHealth specification is a human readable, extensible mhealth data file storage convention.
 
