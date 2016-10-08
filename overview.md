@@ -20,22 +20,22 @@
 3. Used as directory name
 
 
-## MasterSynced
+### [Participant ID]/MasterSynced
 
 1. Synchronized **sensor**, **feature**, **event**, **annotation **files, stored in mhealth specification.
 
 2. Files are divided **hourly**, in folder `MasterSynced/YYYY/MM/DD/`
 
 
-## OriginalRaw
+### [Participant ID]/OriginalRaw
 
 1. Original files stored in manufacturer's format.
 2. Arbitrary directory structure.
 
-## Derived
+### [Participant ID]/Derived
 
 1. Store data files derived or merged from files in `MasterSynced` folder. Such as **feature** files, **class** files, **model** files, ema summary files.
 
 2. `SetName` is used to specify the time character of a set of derived files. Popular names could be `AllTime`, `Weekend`, `February` or `Morning` or the combination between them.
 
-
+##
