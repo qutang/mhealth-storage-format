@@ -7,6 +7,9 @@
 * [Overview](overview.md)
 
 ## File types
+
+* [File types](filetypes.md)
+
 ### `sensor` Data
 * [Defining Methods](methods.md)
 
