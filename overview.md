@@ -20,7 +20,7 @@
 3. Used as directory name
 
 
-## MasterSynced folder
+## MasterSynced
 
 1. Synchronized **sensor**, **event**, **annotation **files, stored in mhealth specification.
 
@@ -28,4 +28,7 @@
 
 
 ## OriginalRaw
+
+1. Original files stored in manufacturer's format.
+2. Arbitrary directory structure.
 
