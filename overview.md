@@ -40,4 +40,6 @@
 
 ## DerivedCrossParticipants
 
-1. 
+1. Store data files derived and merged from files in each participant's `MasterSynced` or `Derived` folders. 
+
+2. `SetName` is used to specify the time or participant characte of a set of derived files. For example, `AllTimeMale`, `LabSessionAdults` and so on.
