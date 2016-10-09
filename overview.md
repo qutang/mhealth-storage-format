@@ -3,21 +3,13 @@
 ```
 
 - root
-
  - [Participant ID]
-
      - MasterSynced
-
  - OriginalRaw
-
  - Derived
-
      - [SetName]
-
  - DerivedCrossParticipants
-
      - [SetName]
-
 ```
 
 
