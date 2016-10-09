@@ -32,7 +32,6 @@
 
 2. `SetName` is used to specify the time or participant characte of a set of derived files. For example, `AllTimeMale`, `LabSessionAdults` and so on.
 
-
 {% sample lang="" %}
 ```
 - root
