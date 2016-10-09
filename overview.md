@@ -2,15 +2,9 @@
 
 ## Participant ID
 
-
-
 1. Numerical or String
 
-
-
 2. Globally Unique
-
-
 
 3. Used as directory name
 
