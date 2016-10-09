@@ -14,10 +14,6 @@
 
 2. Files are divided **hourly**, in folder `MasterSynced/YYYY/MM/DD/`
 
-
-
-
-
 ### [Participant ID]/OriginalRaw
 
 
