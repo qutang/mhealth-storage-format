@@ -2,34 +2,34 @@
 
 ## File types to store raw information
 
-* `sensor` file
+### `sensor` file
 
-Store raw numerical or categorical sensor data in high or low sampling frequency.
+> Store raw numerical or categorical sensor data in high or low sampling frequency.
 
-User can add their own `sensor type` to define new `senosr` data file format.
+> User can add their own `sensor type` to define new `senosr` data file format.
 
-* `event` file
+### `event` file
 
-Store **formatted** event information happens at a time point, such as EMA prompt questions and responses.
+> Store **formatted** event information happens at a time point, such as EMA prompt questions and responses.
 
-* `annotation` file
+### `annotation` file
 
-Store annotation information by user or by annotator. Annotation set may be from user definition or predefined annotation set.
+> Store annotation information by user or by annotator. Annotation set may be from user definition or predefined annotation set.
 
-* `log` file
+### `log` file
 
-Store **formatted** debug log information for devices.
+> Store **formatted** debug log information for devices.
 
-* `note` file
+### `note` file
 
-Store **unformatted** user or researcher's note about experiment.
+> Store **unformatted** user or researcher's note about experiment.
 
 ## File types for data analysis
 
-* `feature` file
+### `feature` file
 
-* `class` file
+### `class` file
 
-* `model` file
+### `model` file
 
-* `stat` file
+### `stat` file
