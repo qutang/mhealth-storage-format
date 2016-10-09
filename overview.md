@@ -24,8 +24,6 @@
 
 1. Store data files derived or merged from files in `MasterSynced` folder. Such as **feature** files, **class** files, **model** files, ema summary files.
 
-
-
 2. `SetName` is used to specify the time character of a set of derived files. Popular names could be `AllTime`,`LabSession`,`Weekend`, `February` or `Morning` or the combination between them.
 
 
