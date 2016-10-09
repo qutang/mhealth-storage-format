@@ -24,7 +24,7 @@ Store **formatted** debug log information for devices.
 
 Store *unformatted** user or researcher's note about experiment.
 
-## File types for data mining
+## File types for data analysis
 
 * `feature` file
 
