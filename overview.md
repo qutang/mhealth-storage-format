@@ -42,7 +42,3 @@
   - DerivedCrossParticipants
     - [SetName]
 ```
-
-
-
-{% endmethod %}
