@@ -16,4 +16,4 @@
 
 * `model` file
 
-* `prediction` file
+* `stat` file
