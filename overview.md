@@ -22,8 +22,6 @@
 
 ### [Participant ID]/Derived
 
-
-
 1. Store data files derived or merged from files in `MasterSynced` folder. Such as **feature** files, **class** files, **model** files, ema summary files.
 
 
