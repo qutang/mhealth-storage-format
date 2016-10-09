@@ -20,8 +20,6 @@
 
 2. Arbitrary directory structure.
 
-
-
 ### [Participant ID]/Derived
 
 
