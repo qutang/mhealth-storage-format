@@ -28,8 +28,16 @@
 
 ### `feature` file
 
+> Store numerical or categorical feature data derived from `sensor` or `event` files.
+
 ### `class` file
+
+> Store class labels used for machine learning tasks derived from `annotation`, `event` or `note` files.
 
 ### `model` file
 
+> Store model definition including hyper parameters and trained structure.
+
 ### `stat` file
+
+> Store summary or statistics derived from any other files.
