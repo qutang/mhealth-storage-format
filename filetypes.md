@@ -8,7 +8,7 @@
 
 * `annotation` file
 
-## File types for machine learning analysis
+## File types for data mining
 
 * `feature` file
 
