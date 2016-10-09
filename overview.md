@@ -1,5 +1,26 @@
 # Directory overview
 
+```
+
+- root
+
+ - [Participant ID]
+
+ - MasterSynced
+
+ - OriginalRaw
+
+ - Derived
+
+ - [SetName]
+
+ - DerivedCrossParticipants
+
+ - [SetName]
+
+```
+
+
 ## Participant ID
 
 1. Numerical or String
