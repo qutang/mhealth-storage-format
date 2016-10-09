@@ -16,8 +16,6 @@
 
 ### [Participant ID]/OriginalRaw
 
-
-
 1. Original files stored in manufacturer's format.
 
 
