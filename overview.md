@@ -4,9 +4,9 @@
 - root
  - [Participant ID]
      - MasterSynced
- - OriginalRaw
- - Derived
-     - [SetName]
+     - OriginalRaw
+     - Derived
+         - [SetName]
  - DerivedCrossParticipants
      - [SetName]
 ```
