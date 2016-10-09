@@ -1,7 +1,5 @@
 # Directory overview
 
-{% method %}
-
 ## Participant ID
 
 
