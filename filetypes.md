@@ -40,4 +40,4 @@
 
 ### `stat` file
 
-> Store summary or statistics derived from any other files.
+> Store summary or statistics information derived from any other files.
