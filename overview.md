@@ -28,8 +28,6 @@
 
 ## DerivedCrossParticipants
 
-
-
 1. Store data files derived and merged from files in each participant's `MasterSynced` or `Derived` folders.
 
 
