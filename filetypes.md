@@ -15,3 +15,5 @@
 * `class` file
 
 * `model` file
+
+* `prediction` file
