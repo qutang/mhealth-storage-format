@@ -12,7 +12,6 @@
      - [SetName]
 ```
 
-
 ## Participant ID
 
 1. Numerical or String
