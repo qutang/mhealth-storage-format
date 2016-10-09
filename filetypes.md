@@ -1,7 +1,11 @@
 # File types
 
-1. `sensor` file
+* `sensor` file
 
-2. `event` file
+* `event` file
 
-3. ``
+* `annotation` file
+---
+* `feature` file
+
+* `class` file
