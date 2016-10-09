@@ -22,7 +22,7 @@ Store **formatted** debug log information for devices.
 
 * `note` file
 
-Store *unformatted** user or researcher's note about experiment.
+Store **unformatted** user or researcher's note about experiment.
 
 ## File types for data analysis
 
