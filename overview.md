@@ -1,7 +1,6 @@
 # Directory overview
 
 ```
-
 - root
  - [Participant ID]
      - MasterSynced
