@@ -8,10 +8,6 @@
 
 3. Used as directory name
 
-
-
-
-
 ### [Participant ID]/MasterSynced
 
 
