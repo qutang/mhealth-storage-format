@@ -10,8 +10,6 @@
 
 ### [Participant ID]/MasterSynced
 
-
-
 1. Synchronized **sensor**, **feature**, **event**, **annotation **files, stored in mhealth specification.
 
 
