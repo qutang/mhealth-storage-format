@@ -63,7 +63,7 @@ See a [complete list](#) of predefined sensor data types.
 
 {% method %}
 
-### DEVICEID
+### SENSORID
 
 1. A global unique identifier for a specific device. For most devices, it could be the serial number. For phone, it could also be the IMEI number.
 
@@ -80,7 +80,7 @@ See the predefined [list](#) for recommended device id sources for different sen
 {% endmethod %}
 
 {% method %}
-### SENSORID
+### DATAID
 
 1. A local unique identifier for a specific sensor on a device. For single sensor device, it could be omitted. For IMU devices, it could be a descriptive string.
 
