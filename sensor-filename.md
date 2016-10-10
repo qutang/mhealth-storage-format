@@ -75,7 +75,7 @@ See a [complete list](#) of predefined sensor data types.
 #### Examples
 ``, ``
 
-See the predefined [list](#) for recommended device id sources for different sensor types.
+See the predefined [list](#) for recommended sensor id sources for different sensor types.
 
 {% endmethod %}
 
