@@ -5,5 +5,5 @@ Store **formatted** event information (numerical or categorical) happens at a ti
 ## Filename convention
 
 ```
-EventType.SENSORID-EVENTID.
+EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 ```
