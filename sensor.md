@@ -18,7 +18,7 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
 {% common %} 
 
-Examples:
+#### Examples
 `AndroidPhone`, `AndroidWear`,`GT3X`,`GT9X`
 
 {% endmethod %}
