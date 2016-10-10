@@ -6,6 +6,8 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
     SensorType-DataType-VersionCode.SENSORID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.sensor.csv(.gz)
 
+{% method %}
+
 ### SensorType
 
 1. Used to specify the type of sensor (or device, if multiple sensors are on the same device, such as phone, IMU device or smart watch).
@@ -31,3 +33,5 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 3. Optional. If omitted, use `NA` as default.
 
 ### SENSORID
+
+1. Used to uniquely 
