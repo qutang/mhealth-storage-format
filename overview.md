@@ -17,7 +17,7 @@
 
 2. Globally Unique.
 
-3. Used as directory name
+3. Used as directory name.
 
 ### [Participant ID]/MasterSynced
 
