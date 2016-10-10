@@ -8,5 +8,6 @@
 | `AndroidWear` | serial number | `AccelerometerCalibrated`, `Gyroscope`, `GPSLocation`, `HeartRate`
 | `GT3X`, `GT3XBT`, `GT3XPLUS`, `GT1M` | serial number | `AccelerometerCalibrated` 
 | `GT9X` | serial number | `AccelerometerCalibrated`, `Gyroscope`
+| `ActivPal3` | serial number | `AccelerometerCalibrated` |
 
 
