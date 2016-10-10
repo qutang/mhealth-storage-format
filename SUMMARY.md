@@ -32,6 +32,9 @@
 
 ## note Data
 
+* [Filename convention](note-filename.md)
+* [File format](event-format.md)
+
 ## feature Data
 
 ## class Data
