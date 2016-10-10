@@ -22,6 +22,9 @@
 
 ## annotation Data
 
+* [Filename convention](event-filename.md)
+* [File format](event-format.md)
+
 ## log Data
 
 ## note Data
