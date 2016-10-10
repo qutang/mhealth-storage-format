@@ -52,7 +52,7 @@
 
 ## stat Data
 
-* [Filename convention](event-filename.md)
-* [File format](event-format.md)
+* [Filename convention](stat-filename.md)
+* [File format](stat-format.md)
 
 
