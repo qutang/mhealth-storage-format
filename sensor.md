@@ -80,7 +80,7 @@ See the predefined [list](#) for recommended sensor id sources for different sen
 {% method %}
 ### SENSORID
 
-1. A local unique identifier for a specific sensor on a device. For most sensors, it could be the serial number. For phone, it could also be the IMEI number.
+1. A local unique identifier for a specific sensor on a device. For single sensor device, it could be omitted. For phone, it could also be the IMEI number.
 
 2. UPPERCASE, allowed characters: *alphabets* and *digits*.
 
