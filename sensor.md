@@ -6,7 +6,7 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
     SensorType-DataType-VersionCode.SENSORID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.sensor.csv(.gz)
 
-{% method -%}
+{% method %}
 
 ### SensorType
 
