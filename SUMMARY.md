@@ -11,6 +11,7 @@
 
 ## sensor Data
 * [Filename convention](sensor-filename.md)
+* [File format](sensor-format.md)
 * [Defining Methods](methods.md)
 
 ## event Data
