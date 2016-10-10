@@ -112,6 +112,4 @@ See a predefined [list](#) for recommended sensor id sources for different data 
 
 1. `M0500` means `UTC-5h` which is the United States Eastern Standard Time.
 
-2. 
-
 {% endmethod %}
