@@ -17,4 +17,6 @@ EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 
 3. Required.
 
+{% common %}
+
 {% endmethod %}
