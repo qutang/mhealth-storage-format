@@ -92,8 +92,6 @@ See the predefined [list](#) for recommended sensor id sources for different sen
 
 ``, ``
 
-
-
 See the predefined [list](#) for recommended sensor id sources for different sensor types.
 
 
