@@ -8,7 +8,7 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
 {% method %}
 
-### SensorType
+### SensorType {#SensorType}
 
 1. Used to specify the type of sensor (or device, if multiple sensors are on the same device, such as phone, IMU device or smart watch).
 
