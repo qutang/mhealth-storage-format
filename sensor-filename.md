@@ -98,6 +98,10 @@ See a predefined [list](#) for recommended sensor id sources for different data 
 
 {% endmethod %}
 
+{% method %}
+
 ### Timestamp
 
+1. `YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm`
 
+{% endmethod %}
