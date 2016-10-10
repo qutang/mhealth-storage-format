@@ -1,5 +1,10 @@
 # File types
 
+These file types will appear as suffix in a filename, for example,
+
+    xxx.xxxxxx.2016-01-01-08-00-00-000-M0500.sensor.csv
+    xxx.xxxxxx.
+
 ## File types to store raw information
 
 ### `sensor` file
