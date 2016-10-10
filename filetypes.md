@@ -9,7 +9,7 @@ These file types will appear as suffix in a filename, for example,
 
 ### `sensor` file
 
-> Store raw numerical or categorical sensor data in high or low sampling frequency.
+> Store raw numerical sensor data in high or low sampling frequency.
 
 > User can add their own `sensor type` to define new `senosr` data file format.
 
