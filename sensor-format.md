@@ -7,8 +7,8 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 In csv format, separated by `,`, no white space. The file may be gzipped.
 
 ```
-HEADER_TIME_STAMP,COL1,COL2,COL3,...
-2015-01-05 15:23:00.244,2.456,3.123,4.321,2.331,...
+HEADER_TIME_STAMP,[PARTICIPANT_ID],COL1,COL2,COL3,...
+2015-01-05 15:23:00.244,[P1],2.456,3.123,4.321,2.331,...
 ```
 
 {% method %}
@@ -18,6 +18,8 @@ HEADER_TIME_STAMP,COL1,COL2,COL3,...
 1. `HEADER_TIME_STAMP` is **required** to be the first column.
 
 2. Other column names are in UPPERCASE style, separated by `_`, allowed characters: *alphabets* and *digits*.
+
+3. If containing multiple participants, the second column should be `PARTICIPANT_ID`.
 
 {% common %}
 #### Examples
@@ -42,5 +44,9 @@ See a complete [list](#) of recommended column names for different data types.
 
 1. **Only numerical values are allowed**.
 
-2. 
+2. To control file size, it is recommended to not use higher float value precision than necessary.
+
+3. No white space.
+
+4. If value is not available, use `""` empty string instead.
 
