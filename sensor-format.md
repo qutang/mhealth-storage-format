@@ -19,6 +19,8 @@ HEADER_TIME_STAMP,[PARTICIPANT_ID],COL1,COL2,COL3,...
 
 2. Other column names are in UPPERCASE style, separated by `_`, allowed characters: *alphabets* and *digits*.
 
+3. Although column name is completely customzied
+
 3. If containing multiple participants, the second column should be `PARTICIPANT_ID`.
 
 {% common %}
