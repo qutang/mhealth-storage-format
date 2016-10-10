@@ -13,6 +13,7 @@
 * [Filename convention](sensor-filename.md)
 * [File format](sensor-format.md)
 * [Sensor types](sensor-sensortype.md)
+* [Data types](sensor-datatype.md)
 
 ## event Data
 
