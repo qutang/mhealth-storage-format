@@ -36,6 +36,7 @@ See a complete [list](#) of recommended column names for different data types.
 ### `HEADER_TIME_STAMP` format
 
 1. In local time zone, meaning the time zone where data was collected.
+
 2. 
 
 {% endmethod %}
