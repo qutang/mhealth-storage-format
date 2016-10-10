@@ -4,5 +4,5 @@
 
 | SensorType | Device id source | DataType examples |
 | --- | --- | --- |
-| `AndroidPhone` | IMEI or serial number | `Light`, `AccelerometerCalibrated`, `Gyroscope`, `Sound`, `Battery`, `GPSLocation`, `WifiSignal`, `CellularSignal`, `IndoorLocation`
+| `AndroidPhone` | IMEI or serial number | `Light`, `AccelerometerCalibrated`, `Gyroscope`, `Sound`, `GPSLocation`, `WifiSignal`, `CellularSignal`, `IndoorLocation`
 
