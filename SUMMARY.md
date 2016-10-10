@@ -11,6 +11,8 @@
 * [File types](filetypes.md)
 
 ### `sensor` Data
+
+* [sensor Data](sensor.md)
 * [Defining Methods](methods.md)
 
 ### `event` Data
