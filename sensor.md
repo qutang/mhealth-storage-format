@@ -16,7 +16,7 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
 3. Required
 
-{% sample %} 
+{% common %} 
 
 Examples:
 `AndroidPhone`, `AndroidWear`,`GT3X`,`GT9X`
