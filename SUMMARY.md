@@ -27,7 +27,7 @@
 
 ## log Data
 
-* [Filename convention](event-filename.md)
+* [Filename convention](log-filename.md)
 * [File format](event-format.md)
 
 ## note Data
