@@ -105,9 +105,13 @@ See a predefined [list](#) for recommended sensor id sources for different data 
 
 2. `YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm`
 
-3. `[M/P]HHmm` specifies time zone offset from `UTC`, `M` means `-` and `P` means `+`.
+3. `[M/P]HHmm` specifies time zone offset from `UTC` or `GMT`, `M` means `-` and `P` means `+`.
 
 {% common %}
+#### Examples
 
+1. `M0500` means `UTC-5h` which is the United States Eastern Standard Time.
+
+2. 
 
 {% endmethod %}
