@@ -59,6 +59,8 @@ See a [complete list](#) of predefined sensor data types.
 
 {% endmethod %}
 
+{% method %}
+
 ### SENSORID
 
 1. A global unique identifier for a specific device. For most devices, it could be the serial number. For phone, it could also be the IMEI number.
@@ -66,3 +68,11 @@ See a [complete list](#) of predefined sensor data types.
 2. UPPERCASE, allowed characters: *alphabets* and *digits*.
 
 3. Required.
+
+{% common %}
+#### Examples
+``, ``
+
+See the predefined [list](#) for recommended sensor id sources for different sensor types.
+
+{% endmethod %}
