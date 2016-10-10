@@ -10,7 +10,7 @@
 * [File types](filetypes.md)
 
 ## sensor Data
-* [Filename convention](sensor.md)
+* [Filename convention](sensor-filename.md)
 * [Defining Methods](methods.md)
 
 ## event Data
