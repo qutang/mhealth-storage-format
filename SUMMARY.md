@@ -17,7 +17,7 @@
 
 ## event Data
 
-* [Filename convention](sensor-filename.md)
+* [Filename convention](event-filename.md)
 * [File format](sensor-format.md)
 
 ## annotation Data
