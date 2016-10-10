@@ -23,6 +23,8 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
 {% endmethod %}
 
+{% method %}
+
 ### DataType
 
 1. Used to specify the type of data this file refers to. The same device can support collecting multiple types of data, such as smart phone can be used to collect acceleration, orientation, light and sound.
@@ -30,6 +32,12 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 2. Camel Style, allowed characters: *alphabets*.
 
 3. Required
+
+{% common %}
+#### Examples
+`AccelerometerCalibrated`, `GPSLocation`, `Light`, `Sound`, `HeartRate`
+
+{% endmethod %}
 
 ### VersionCode
 
