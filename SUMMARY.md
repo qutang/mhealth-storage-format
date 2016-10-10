@@ -33,7 +33,7 @@
 ## note Data
 
 * [Filename convention](note-filename.md)
-* [File format](event-format.md)
+* [File format](note-format.md)
 
 ## feature Data
 
