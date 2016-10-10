@@ -42,6 +42,9 @@
 
 ## class Data
 
+* [Filename convention](class-filename.md)
+* [File format](class-format.md)
+
 ## model Data
 
 ## stat Data
