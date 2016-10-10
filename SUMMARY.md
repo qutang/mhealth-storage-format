@@ -7,20 +7,15 @@
 * [Overview](overview.md)
 
 ## File types
-
 * [File types](filetypes.md)
 
-### `sensor` Data
-
-* [sensor Data](sensor.md)
-
+## sensor Data
+* [Filename convention](sensor.md)
 * [Defining Methods](methods.md)
 
-### `event` Data
+## event Data
 
-### `annotation` Data
+## annotation Data
 
-### `feature` Data
-
-
+## feature Data
 
