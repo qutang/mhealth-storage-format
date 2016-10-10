@@ -15,7 +15,7 @@ These file types will appear as suffix in a filename, for example,
 
 ### `event` file
 
-> Store **formatted** event information happens at a time point, such as EMA prompt questions and responses.
+> Store **formatted** event information (numerical or categorical) happens at a time point, such as EMA prompt questions and responses.
 
 ### `annotation` file
 
