@@ -65,4 +65,4 @@ See a [complete list](#) of predefined sensor data types.
 
 2. UPPERCASE, allowed characters: *alphabets* and *digits*.
 
-2. Required.
+3. Required.
