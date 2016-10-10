@@ -4,7 +4,7 @@
 
 | DataType | DATAID | COLUMN_NAME | 
 | --- | --- | --- |
-| `AccelerometerCalibrated` | ACCEL | `X_IN_G` or `X_IN_MPS`
+| `AccelerometerCalibrated` | ACCEL | `X_IN_G` or `X_IN_MS`
 
 
 
