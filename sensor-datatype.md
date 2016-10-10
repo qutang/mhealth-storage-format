@@ -15,5 +15,3 @@
 | `BluetoothSignal` | `BT` | `[NODE_NAME]` | NA
 | `HeartRate` | `HR` | `HR` | `BPM`
 
-
-
