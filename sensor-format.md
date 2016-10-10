@@ -19,7 +19,7 @@ HEADER_TIME_STAMP,[PARTICIPANT_ID],COL1,COL2,COL3,...
 
 2. Other column names are in UPPERCASE style, separated by `_`, allowed characters: *alphabets* and *digits*.
 
-3. Although column name is completely customzied
+3. Although column name is completely customized, it is recommended to use style `[MEASUREMENT]_IN_[UNIT]`, where `MEASUREMENT` is the name of measurement, and `UNIT` is the unit of measurement, which is optional.
 
 3. If containing multiple participants, the second column should be `PARTICIPANT_ID`.
 
