@@ -16,7 +16,7 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
 3. Required
 
-{% sample lang="js" %} 
+{% sample %} 
 ```bash $ npm install gitbook-api ```
 
 {% endmethod %}
