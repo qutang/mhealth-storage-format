@@ -39,6 +39,8 @@ See a [complete list](#) of predefined sensor types.
 #### Examples
 `AccelerometerCalibrated`, `GPSLocation`, `Light`, `Sound`, `HeartRate`
 
+See a [complete list](#) of predefined sensor data types.
+
 {% endmethod %}
 
 {% method %}
