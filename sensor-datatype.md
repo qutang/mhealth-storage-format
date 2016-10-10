@@ -2,7 +2,7 @@
 
 ** User can add their own definition of data types when using this specification**.
 
-| DataType | DATAID | COLUMN_NAME | UNIT
+| DataType | DATAID | MEASUREMENT | UNIT
 | --- | --- | --- | --- |
 | `AccelerometerCalibrated` | `ACCEL` | `X`, `Y`, `Z` | `G`, `MS`
 | `Gyroscope` | `GYRO` | `PITCH`, `ROLL`, `YAW` | `DEGREE`, `RADIUS`
