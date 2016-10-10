@@ -25,4 +25,5 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 ### VersionCode
 
 1. Used to specify the version for the specific sensor, as firmware or software may be upgraded. This is used to distinguish data collected from the same sensor but with different firmware or software version.
+
 2. CamelStyle, 
