@@ -7,3 +7,8 @@ Store **formatted** event information (numerical or categorical) happens at a ti
 ```
 EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 ```
+
+{% method %}
+### EventType
+
+{% endmethod %}
