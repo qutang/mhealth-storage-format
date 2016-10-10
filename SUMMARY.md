@@ -47,8 +47,8 @@
 
 ## model Data
 
-* [Filename convention](event-filename.md)
-* [File format](event-format.md)
+* [Filename convention](model-filename.md)
+* [File format](model-format.md)
 
 ## stat Data
 
