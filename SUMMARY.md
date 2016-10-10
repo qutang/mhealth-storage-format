@@ -37,6 +37,9 @@
 
 ## feature Data
 
+* [Filename convention](feature-filename.md)
+* [File format](feature-format.md)
+
 ## class Data
 
 ## model Data
