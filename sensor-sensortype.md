@@ -2,7 +2,7 @@
 
 ** User can add their own definition of sensor types when using this specification**.
 
-| SensorType | Device id | DataType examples |
+| SensorType | Sensor id | DataType examples |
 | --- | --- | --- |
 | `AndroidPhone` or `Nexus4`, `MotoG` | IMEI or serial number | `Light`, `AccelerometerCalibrated`, `Gyroscope`, `Sound`, `GPSLocation`, `WifiSignal`, `CellularSignal`, `IndoorLocation`, `BluetoothSignal`
 | `AndroidWear` or `LGUrbane`, `Moto360` | serial number | `AccelerometerCalibrated`, `Gyroscope`, `GPSLocation`, `HeartRate`
