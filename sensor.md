@@ -61,4 +61,4 @@ See a [complete list](#) of predefined sensor data types.
 
 ### SENSORID
 
-1. A global unique identifier for a specific sensor data type. For IMU type devices, sensor id is often 
+1. A global unique identifier for a specific device. For most devices, it could be the serial number. For phone, it could also be the IMEI number.
