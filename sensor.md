@@ -39,6 +39,8 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
 {% endmethod %}
 
+{% method %}
+
 ### VersionCode
 
 1. Used to specify the version for the specific sensor, as firmware or software may be upgraded. This is used to distinguish data collected from the same sensor but with different firmware or software version.
@@ -46,6 +48,12 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 2. CamelStyle, allowed characters: *alphabets* and *digits*.
 
 3. Optional. If omitted, use `NA` as default.
+
+{% common %}
+#### Examples
+`V1`, `V2`, `FW10`, `SW23`.
+
+{% endmethod %}
 
 ### SENSORID
 
