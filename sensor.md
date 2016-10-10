@@ -29,3 +29,5 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 2. CamelStyle, allowed characters: *alphabets* and *digits*.
 
 3. Optional. If omitted, use `NA` as default.
+
+### 
