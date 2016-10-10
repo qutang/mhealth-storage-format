@@ -99,9 +99,15 @@ See a predefined [list](#) for recommended sensor id sources for different data 
 {% endmethod %}
 
 {% method %}
-
 ### Timestamp
 
-1. `YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm`
+1. Represent the start time or the first row's timestamp of current sensor data file.
+
+2. `YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm`
+
+3. `[M/P]HHmm` specifies time zone offset from `UTC`, `M` means `-` and `P` means `+`.
+
+{% common %}
+
 
 {% endmethod %}
