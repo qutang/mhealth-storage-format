@@ -10,4 +10,4 @@
 | `GT9X` | serial number | `AccelerometerCalibrated`, `Gyroscope`
 | `ActivPal3` | serial number | `AccelerometerCalibrated` |
 
-
+If you have recommendation on new sensor type, please add a discussion here.
