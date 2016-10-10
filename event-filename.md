@@ -11,4 +11,10 @@ EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 {% method %}
 ### EventType
 
+1. Used to describe the type of event.
+
+2. CamelStyle, allowed characters: *alphabets* and *digits*.
+
+3. Required.
+
 {% endmethod %}
