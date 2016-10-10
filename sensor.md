@@ -4,7 +4,7 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
 ## Filename convention
 
-    SensorType-DataType-VersionCode.SENSORID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.sensor.csv(.gz)
+    SensorType-DataType-VersionCode.DEVICEID-SENSORID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.sensor.csv(.gz)
 
 {% method %}
 
@@ -61,4 +61,4 @@ See a [complete list](#) of predefined sensor data types.
 
 ### SENSORID
 
-1. Used to uniquely 
+1. A global unique identifier for a specific sensor data type. For IMU type devices, sensor id is often 
