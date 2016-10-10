@@ -51,7 +51,7 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
 {% common %}
 #### Examples
-`V1`, `V2`, `FW10`, `SW23`.
+`V1`, `V2`, `FW10`, `SW23`
 
 {% endmethod %}
 
