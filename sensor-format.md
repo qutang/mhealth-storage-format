@@ -22,4 +22,6 @@ HEADER_TIME_STAMP,COL1,COL2,COL3,...
 
 For inertial sensors, column names could be `X_IN_G`, `Y_IN_G`, `Z_IN_G`, where `IN_XXX` is used to specify the unit of the measurement.
 
+For heart rate monitor, column names could be `IN_BPM`.
+
 {% endmethod %}
