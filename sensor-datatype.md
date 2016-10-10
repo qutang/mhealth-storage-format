@@ -13,7 +13,7 @@
 | `CellularSignal` | `CELL` | `[PROVIDER_NAME]` | NA
 | `InDoorLocation` | `INDOOR` | `` | NA 
 | `BluetoothSignal` | `BT` | `[NODE_NAME]` | NA
-
+| `HeartRate` | `HR` | `HR` | `BPM`
 
 
 
