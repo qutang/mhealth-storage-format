@@ -30,3 +30,12 @@ For GPS monitor, column names could be `LATITUDE_IN_DEGREE` or  `LONGITUIDE_IN_R
 See a complete [list](#) of recommended column names for different data types.
 
 {% endmethod %}
+
+{% method %}
+
+### `HEADER_TIME_STAMP` format
+
+1. In local time zone, meaning the time zone where data was collected.
+2. 
+
+{% endmethod %}
