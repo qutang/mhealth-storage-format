@@ -4,7 +4,7 @@
 
 | SensorType | Device id | DataType examples |
 | --- | --- | --- |
-| `AndroidPhone` | IMEI or serial number | `Light`, `AccelerometerCalibrated`, `Gyroscope`, `Sound`, `GPSLocation`, `WifiSignal`, `CellularSignal`, `IndoorLocation`, `BluetoothSignal`
+| `AndroidPhone` or `Nexus4`, `MotoG` | IMEI or serial number | `Light`, `AccelerometerCalibrated`, `Gyroscope`, `Sound`, `GPSLocation`, `WifiSignal`, `CellularSignal`, `IndoorLocation`, `BluetoothSignal`
 | `AndroidWear` | serial number | `AccelerometerCalibrated`, `Gyroscope`, `GPSLocation`, `HeartRate`
 | `GT3X`, `GT3XBT`, `GT3XPLUS`, `GT1M` | serial number | `AccelerometerCalibrated` 
 | `GT9X` | serial number | `AccelerometerCalibrated`, `Gyroscope`
