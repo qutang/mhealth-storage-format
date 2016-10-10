@@ -20,6 +20,6 @@ HEADER_TIME_STAMP,COL1,COL2,COL3,...
 
 #### Examples
 
-
+For inertial sensors, column names could be `X_IN_G`, `Y_IN_G`, `Z_IN_G`, where `IN_XXX` is used to specify the unit of the measurement.
 
 {% endmethod %}
