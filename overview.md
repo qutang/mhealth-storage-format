@@ -13,9 +13,9 @@
 
 ## Participant ID
 
-1. Numerical or String
+1. Allowed characters: *alphabets* and *digits*.
 
-2. Globally Unique
+2. Globally Unique.
 
 3. Used as directory name
 
