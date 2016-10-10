@@ -16,6 +16,7 @@ HEADER_TIME_STAMP,COL1,COL2,COL3,...
 ### Column name
 
 1. `HEADER_TIME_STAMP` is **required** to be the first column.
+
 2. Other column names are in UPPERCASE style, separated by `_`, allowed characters: *alphabets* and *digits*.
 
 {% common %}
@@ -31,12 +32,15 @@ See a complete [list](#) of recommended column names for different data types.
 
 {% endmethod %}
 
-{% method %}
-
 ### `HEADER_TIME_STAMP` format
 
 1. In local time zone, meaning the time zone where data was collected. Time zone can be identified through [filename convention](#).
 
 2. `YYYY-MM-DD HH:mm:ss.SSS`
 
-{% endmethod %}
+### Data format
+
+1. **Only numerical values are allowed**.
+
+2. 
+
