@@ -35,6 +35,18 @@ Outdoor events: `NearbyPlaceChange`
 
 Same as sensor id described in sensor data.
 
+{% method %}
+
+### EVENTID
+
+1. local identifier for event types.
+
+2. UPPERCASE style, allowed characters: *alphabets*.
+
+3. Optional, only used when SENSORID is not enough to identify an event type.
+
+{% endmethod %}
+
 
 
 
