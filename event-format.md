@@ -45,8 +45,6 @@ See a complete [list](#) of recommended column names for different data types.
 ### Data format
 1. **Only numerical values are allowed**.
 
-
-
 2. To control file size, it is recommended to not use higher float value precision than necessary.
 
 
