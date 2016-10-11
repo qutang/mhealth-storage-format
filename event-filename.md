@@ -35,8 +35,6 @@ Outdoor events: `NearbyPlaceChange`
 
 Same as sensor id described in sensor data.
 
-{% method %}
-
 ### EVENTID
 
 1. local identifier for event types.
@@ -45,7 +43,7 @@ Same as sensor id described in sensor data.
 
 3. Optional, only used when SENSORID is not enough to globally identify an event type.
 
-{% endmethod %}
+See a predefined [list](#) of event id and corresponding event types.
 
 
 
