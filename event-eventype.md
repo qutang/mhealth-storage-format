@@ -9,6 +9,9 @@
 | `Battery` | `CHARGING` |
 | `Bluetooth` | `BTSTATUS` |
 | `CPU` | `CPUSTATUS` |
+| `RAM` | `RAMSTATUS` |
+| `ExternalStorage` | `EXSTORAGESTATUS` |
+| `InternalStorage` | `INSTORAGESTATUS` |
 | ``
 
 
