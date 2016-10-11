@@ -47,6 +47,9 @@ Same as sensor id described in sensor data.
 
 See a predefined [list](#) of event id and corresponding event types.
 
+### Timestamp
+
+See description of timestamp for sensor data.
 
 
 
