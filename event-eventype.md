@@ -12,6 +12,9 @@
 | `RAM` | `RAMSTATUS` |
 | `ExternalStorage` | `EXSTORAGESTATUS` |
 | `InternalStorage` | `INSTORAGESTATUS` |
+| `ObjectMove` | `OBJMOVE` |
+| `ObjectStatus` | `OBJSTATUS` |
+| `NearbyPlaces` | `NEARBY` |
 
 
 ## `EMA`
