@@ -31,11 +31,9 @@ Outdoor events: `NearbyPlaceChange`
 
 {% endmethod %}
 
-{% method %}
+### SENSORID
 
-
-
-{% endmethod %}
+Same as sensor id described in sensor data.
 
 
 
