@@ -27,7 +27,7 @@ Smart phone events: `PhoneEMA`, `PhoneCall`, `PhoneSMS`, `Network`, `Battery`, `
 
 Indoor events: `ObjectMove`, `ObjectStatus`.
 
-Outdoor events: `NearbyPlaceChange`.
+Outdoor events: `NearbyPlace`.
 
 See a predefined [list](#) of event id and corresponding event types.
 
