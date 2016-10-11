@@ -8,6 +8,8 @@ Store **formatted** event information (numerical or categorical) happens at a ti
 EventType.SENSORID-EVENTID.YYYY-MM-DD-[M/P]HHmm.event.csv
 ```
 
+Event files are divided into **daily** files, as hourly files will be too sparse to be insightful.
+
 {% method %}
 ### EventType
 
