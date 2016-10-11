@@ -6,8 +6,6 @@ Store **formatted** event information (numerical or categorical) happens at a ti
 
 In csv format, separated by `,`, no white space. The file may be gzipped.
 
-
-
 ```
 
 HEADER_TIME_STAMP,[PARTICIPANT_ID],COL1,COL2,COL3,...
