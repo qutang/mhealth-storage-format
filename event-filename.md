@@ -25,9 +25,11 @@ EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 
 Smart phone events: `PhoneEMA`, `PhoneCall`, `PhoneSMS`, `Network`, `Battery`, `Bluetooth`, `CPU`, `Memory`, `ExternalStorage`, `InternalStorage`.
 
-Indoor events: `ObjectMove`, `ObjectStatus`
+Indoor events: `ObjectMove`, `ObjectStatus`.
 
-Outdoor events: `NearbyPlaceChange`
+Outdoor events: `NearbyPlaceChange`.
+
+See a predefined [list](#) of event id and corresponding event types.
 
 {% endmethod %}
 
