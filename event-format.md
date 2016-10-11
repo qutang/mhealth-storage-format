@@ -4,8 +4,6 @@ Store **formatted** event information (numerical or categorical) happens at a ti
 
 ## File format
 
-
-
 In csv format, separated by `,`, no white space. The file may be gzipped.
 
 
