@@ -47,8 +47,6 @@ See a complete [list](#) of recommended column names for different data types.
 
 2. To control file size, it is recommended to not use higher float value precision than necessary.
 
-
-
 3. No white space.
 
 
