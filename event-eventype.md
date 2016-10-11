@@ -24,3 +24,7 @@
 | | |
 
 ## `PhoneCall`
+
+| COLUMN_NAME | Value type |
+| --- | --- |
+| | |
