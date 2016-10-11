@@ -2,7 +2,7 @@
 
 | EventType | EVENTID |
 | --- | --- |
-| `PhoneEMA`, `WatchEMA` | `EMA` |
+| `EMA` | `EMA` |
 | `PhoneCall` | `CALL` |
 | `PhoneSMS` | `SMS` |
 | `Network` | `NETWORK` |
@@ -19,4 +19,8 @@
 
 ## `EMA`
 
+| COLUMN_NAME | Value type |
+| --- | --- |
+| | |
 
+## ``
