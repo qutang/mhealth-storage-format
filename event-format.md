@@ -49,8 +49,6 @@ See a complete [list](#) of recommended column names for different data types.
 
 3. No white space.
 
-
-
 4. If value is not available, use `""` empty string instead.
 
 
