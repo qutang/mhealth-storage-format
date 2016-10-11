@@ -31,8 +31,6 @@ For inertial sensors, column names could be `X_IN_G`, `Y_IN_G`, `Z_IN_G`, where 
 
 For heart rate monitor, column names could be `HR_IN_BPM`.
 
-
-
 For GPS monitor, column names could be `LATITUDE_IN_DEGREE` or `LONGITUIDE_IN_RADIUS`.
 
 
