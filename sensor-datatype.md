@@ -15,5 +15,5 @@
 | `InDoorLocation` | `INDOOR` | `` | NA 
 | `BluetoothSignal` | `BT` | `[NODE_NAME]` | NA
 | `HeartRate` | `HR` | `HR` | `BPM`
-| `CPU` | `CPU` | USAGE | `PERCENTAGE`
+| `CPU` | `CPU` | `USAGE` | `PERCENTAGE`
 
