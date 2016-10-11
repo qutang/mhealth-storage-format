@@ -92,7 +92,7 @@ See the predefined [list](#) for recommended sensor id sources for different sen
 
 #### Examples
 
-``, ``
+`ACCEL`, `GYRO`
 
 See a predefined [list](#) for recommended data id sources for different data types.
 
