@@ -16,4 +16,5 @@
 | `BluetoothSignal` | `BT` | `[NODE_NAME]` | NA
 | `HeartRate` | `HR` | `HR` | `BPM`
 | `CPU` | `CPU` | `USAGE` | `PERCENTAGE`
+| `GPU` | `GPU` | `USAGE` | `PERCENTAGE`
 
