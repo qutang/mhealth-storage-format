@@ -105,7 +105,7 @@ See a predefined [list](#) for recommended data id sources for different data ty
 
 2. `YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm`
 
-3. 
+3. In local time zone.
 
 {% common %}
 
