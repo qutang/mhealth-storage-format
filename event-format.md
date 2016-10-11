@@ -27,7 +27,11 @@ HEADER_TIME_STAMP,...
 
 #### Examples
 
-For EMA, column names may include `RESPONSE_TIME`, `PROMPT_TIME`, `REPROMPT_INTERVAL`, `PROMPT_METHOD`, `QUESTION`, `ANSWER`
+For EMA, column names may include `RESPONSE_TIME`, `PROMPT_TIME`, `REPROMPT_INTERVAL`, `PROMPT_METHOD`, `QUESTION`, `ANSWER`, `PROMPT_INDEX`, `SURVEY_INDEX`.
+
+For `PhoneCall`, it may include `DIRECTION`, `NUMBER`, `DURATION`
+
+For `ObjectMove`, it may include `NODE_NAME`, `NODE_ID`
 
 {% endmethod %}
 
