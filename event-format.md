@@ -33,6 +33,10 @@ For `PhoneCall`, it may include `DIRECTION`, `NUMBER`, `DURATION`
 
 For `ObjectMove`, it may include `NODE_NAME`, `NODE_ID`
 
+For `NearbyPlace`, it may include `DISTANCE`, `PLACE_NAME`, `CATEGORY_NAME`.
+
+See a predefined [list](#) of event id and corresponding event types.
+
 {% endmethod %}
 
 ### `HEADER_TIME_STAMP` format
