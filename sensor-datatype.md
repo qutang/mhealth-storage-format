@@ -6,6 +6,7 @@
 | --- | --- | --- | --- |
 | `AccelerometerCalibrated` | `ACCEL` | `X`, `Y`, `Z` | `G`, `MS`
 | `Gyroscope` | `GYRO` | `PITCH`, `ROLL`, `YAW` | `DEGREE`, `RADIUS`
+| `Battery` | `BATTERY` | `LEVEL` | `PERCENTAGE`, `VOLTAGE`
 | `Sound` | `SOUND` | `VOL` | `DB`
 | `Light` | `LIGHT` | `BRIGHTNESS` | `LUM`
 | `GPSLocation` | `GPS` | `LATITUDE`, `LONGITUDE` | `DEGREE`, `RADIUS`
