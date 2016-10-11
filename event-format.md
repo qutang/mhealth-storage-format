@@ -39,7 +39,7 @@ See a complete [list](#) of recommended column names for different data types.
 
 ### `HEADER_TIME_STAMP` format
 
-1. In local time zone, meaning the time zone where data was collected. Time zone can be identified through [filename convention](#).
+1. In local time zone, meaning the time zone where event happens. Time zone can be identified through [filename convention](#).
 
 2. `YYYY-MM-DD HH:mm:ss.SSS`
 
