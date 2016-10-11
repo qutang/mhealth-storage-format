@@ -35,8 +35,6 @@ For GPS monitor, column names could be `LATITUDE_IN_DEGREE` or `LONGITUIDE_IN_RA
 
 See a complete [list](#) of recommended column names for different data types.
 
-
-
 {% endmethod %}
 
 
