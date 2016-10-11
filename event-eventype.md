@@ -35,3 +35,10 @@
 | --- | --- |
 | | |
 
+## `NearbyPlaces`
+
+| COLUMN_NAME | Value type |
+| --- | --- |
+| | |
+
+
