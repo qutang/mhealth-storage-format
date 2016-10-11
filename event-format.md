@@ -15,8 +15,6 @@ HEADER_TIME_STAMP,...
 
 ### Column name
 
-
-
 1. `HEADER_TIME_STAMP` is **required** to be the first column.
 
 
