@@ -21,7 +21,7 @@ HEADER_TIME_STAMP,...
 
 2. Other column names are in UPPERCASE style, separated by `_`, allowed characters: *alphabets* and *digits*.
 
-3. Column names should be predefined for a specific event type.
+3. Column names should be predefined for a specific event type, including its name and value type.
 
 3. If containing multiple participants, the second column should be `PARTICIPANT_ID`.
 
