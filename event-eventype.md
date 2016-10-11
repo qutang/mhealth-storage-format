@@ -12,7 +12,6 @@
 | `RAM` | `RAMSTATUS` |
 | `ExternalStorage` | `EXSTORAGESTATUS` |
 | `InternalStorage` | `INSTORAGESTATUS` |
-| ``
 
 
 ## `EMA`
