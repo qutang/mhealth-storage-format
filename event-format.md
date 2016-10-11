@@ -33,8 +33,6 @@ For heart rate monitor, column names could be `HR_IN_BPM`.
 
 For GPS monitor, column names could be `LATITUDE_IN_DEGREE` or `LONGITUIDE_IN_RADIUS`.
 
-
-
 See a complete [list](#) of recommended column names for different data types.
 
 
