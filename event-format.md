@@ -1,4 +1,4 @@
-sdf[^1]
+# `event`
 
-[^1]: Enter footnote here.
+
 
