@@ -63,7 +63,7 @@ See a predefined [list](#) of event id and corresponding event types.
 
 #### Examples
 
-If time zone changes at 10am on a day, then there will be two files, one would be
+If time zone changes from M0500 to M0300 at 10am on a day, and an event happens at 12pm in the old time zone, then there will be two files, one would be
 
 
 
