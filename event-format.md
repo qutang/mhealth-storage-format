@@ -27,13 +27,7 @@ HEADER_TIME_STAMP,...
 
 #### Examples
 
-For inertial sensors, column names could be `X_IN_G`, `Y_IN_G`, `Z_IN_G`, where `IN_XXX` is used to specify the unit of the measurement, but it is optional.
-
-For heart rate monitor, column names could be `HR_IN_BPM`.
-
-For GPS monitor, column names could be `LATITUDE_IN_DEGREE` or `LONGITUIDE_IN_RADIUS`.
-
-See a complete [list](#) of predefined event type format.
+For EMA, column names may include `RESPONSE_TIME`, `PROMPT_TIME`, `REPROMPT_INTERVAL`, `PROMPT_METHOD`, `QUESTION`, `ANSWER`
 
 {% endmethod %}
 
