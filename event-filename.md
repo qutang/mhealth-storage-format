@@ -21,6 +21,8 @@ EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 
 #### Examples
 
-Smart phone events: `EMA`, `PhoneCall`, `PhoneSMS`, `Network`, `Battery`
+Smart phone events: `EMA`, `PhoneCall`, `PhoneSMS`, `Network`, `Battery`[^1]
 
 {% endmethod %}
+
+[^1] This battery event is used to record charging status change, which is different from battery sensor data used to record battery level change at a regular sampling rate.
