@@ -51,7 +51,11 @@ See a predefined [list](#) of event id and corresponding event types.
 
 ### Timestamp
 
-See description of timestamp for sensor data.
+1. Timestamp has the same convention as that of sensor data. 
+
+2. Because it's a daily file, normally it will be `YYYY-MM-DD-00-00-00-000-[M/P]HHmm`. 
+
+3. In case time zone is changed during the day, the time part of the format can be used to identify when time zone change happens.
 
 
 
