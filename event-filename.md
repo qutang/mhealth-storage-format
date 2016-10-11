@@ -21,6 +21,6 @@ EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 
 #### Examples
 
-`PhoneEMA`, `PhoneCall`, `PhoneSMS`, 
+`EMA`, `PhoneCall`, `PhoneSMS`, `Network`, ``
 
 {% endmethod %}
