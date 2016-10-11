@@ -3,7 +3,7 @@
 These file types will appear as suffix in a filename, for example,
 
     xxx.xxxxxx.2016-01-01-08-00-00-000-[M/P]HHmm.sensor.csv
-    xxx.xxxxxx.2016-01-01-09-00-00-110.log.csv
+    xxx.xxxxxx.2016-01-01-09-00-00-110-[M/P]HHmm.log.csv
 
 ## File types to store raw information
 
