@@ -2,7 +2,7 @@
 
 | EventType | EVENTID |
 | --- | --- |
-| `PhoneEMA` | `EMA` |
+| `PhoneEMA`, `WatchEMA` | `EMA` |
 | `PhoneCall` | `CALL` |
 | `PhoneSMS` | `SMS` |
 | `Network` | `NETWORK` |
