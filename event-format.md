@@ -23,8 +23,6 @@ HEADER_TIME_STAMP,...
 
 4. If containing multiple participants, the second column should be `PARTICIPANT_ID`.
 
-
-
 {% common %}
 
 #### Examples
