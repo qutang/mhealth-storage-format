@@ -13,8 +13,6 @@ HEADER_TIME_STAMP,...
 
 {% method %}
 
-
-
 ### Column name
 
 
