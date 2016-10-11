@@ -28,3 +28,12 @@
 | COLUMN_NAME | Value type |
 | --- | --- |
 | | |
+
+## `PhoneSMS`
+
+| COLUMN_NAME | Value type |
+
+| --- | --- |
+
+| | |
+
