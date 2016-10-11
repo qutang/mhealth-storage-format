@@ -32,8 +32,6 @@
 ## `PhoneSMS`
 
 | COLUMN_NAME | Value type |
-
 | --- | --- |
-
 | | |
 
