@@ -37,8 +37,6 @@ See a complete [list](#) of recommended column names for different data types.
 
 {% endmethod %}
 
-
-
 ### `HEADER_TIME_STAMP` format
 
 
