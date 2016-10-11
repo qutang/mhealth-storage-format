@@ -4,7 +4,7 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
 ## Filename convention
 
-    SensorType-DataType-VersionCode.SENSORID-DATAID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.sensor.csv(.gz)
+    SensorType-DataType-VersionCode.SENSORID-DATAID.YYYY-MM-DD-HH-mm-ss-SSS.sensor.csv(.gz)
 
 **DEVICEID-SENSORID** can be used as global unique identifier and primary key.
 
