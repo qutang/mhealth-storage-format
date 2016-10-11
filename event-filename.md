@@ -31,6 +31,10 @@ Outdoor events: `NearbyPlaceChange`
 
 {% endmethod %}
 
+{% method %}
+
+{% endmethod %}
+
 
 
 
