@@ -19,6 +19,7 @@
 
 * [Filename convention](event-filename.md)
 * [File format](event-format.md)
+* [Event types](event-eventype.md)
 
 ## annotation Data
 
