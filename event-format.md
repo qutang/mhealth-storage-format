@@ -8,7 +8,7 @@ In csv format, separated by `,`, no white space.
 
 ```
 HEADER_TIME_STAMP,...
-2015-01-05 15:23:00.244,
+2015-01-05 15:23:00.244,...
 ```
 
 {% method %}
