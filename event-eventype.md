@@ -14,7 +14,7 @@
 | `InternalStorage` | `INSTORAGESTATUS` |
 | `ObjectMove` | `OBJMOVE` |
 | `ObjectStatus` | `OBJSTATUS` |
-| `NearbyPlaces` | `NEARBY` |
+| `NearbyPlace` | `NEARBY` |
 
 
 ## `EMA`
@@ -35,7 +35,7 @@
 | --- | --- |
 | | |
 
-## `NearbyPlaces`
+## `NearbyPlace`
 
 | COLUMN_NAME | Value type |
 | --- | --- |
