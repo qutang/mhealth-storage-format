@@ -42,8 +42,6 @@ See a complete [list](#) of recommended column names for different data types.
 
 2. `YYYY-MM-DD HH:mm:ss.SSS`
 
-
-
 ### Data format
 
 
