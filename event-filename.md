@@ -27,7 +27,7 @@ Smart phone events: `PhoneEMA`, `PhoneCall`, `PhoneSMS`, `Network`, `Battery`, `
 
 Indoor events: `ObjectMove`, `ObjectStatus`
 
-Outdoor events: `NearbyPlace`
+Outdoor events: `NearbyPlaceChange`
 
 {% endmethod %}
 
