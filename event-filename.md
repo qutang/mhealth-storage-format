@@ -21,7 +21,7 @@ EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 
 #### Examples
 
-Smart phone events: `EMA`, `PhoneCall`, `PhoneSMS`, `Network`, `Battery`[^1]
+Smart phone events: `EMA`, `PhoneCall`, `PhoneSMS`, `Network`, `Battery`[^1], `Bluetooth`, `CPU`
 
 {% endmethod %}
 
