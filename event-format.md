@@ -23,8 +23,6 @@ HEADER_TIME_STAMP,...
 
 3. Column names should be predefined for a specific event type.
 
-
-
 3. If containing multiple participants, the second column should be `PARTICIPANT_ID`.
 
 
