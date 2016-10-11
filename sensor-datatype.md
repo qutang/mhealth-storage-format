@@ -17,7 +17,7 @@
 | `CPU` | `CPU` | `USAGE` | `PERCENTAGE`
 | `GPU` | `GPU` | `USAGE` | `PERCENTAGE`
 | `RAM` | `RAM` | `USAGE` | `PERCENTAGE`, `MB`
-| `ExternalStorage` | `EXSTORAGE` | `PERCENTAGE`, `MB`
-| `InternalStorage` | `INSTORAGE` | `PERCENTAGE`, 'MB'
+| `ExternalStorage` | `EXSTORAGE` | `USAGE` | `PERCENTAGE`, `MB`
+| `InternalStorage` | `INSTORAGE` | `USAGE` | `PERCENTAGE`, `MB`
 
 
