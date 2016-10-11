@@ -53,7 +53,7 @@ See a predefined [list](#) of event id and corresponding event types.
 
 ### Timestamp
 
-1. Timestamp has the same convention as that of sensor data. 
+1. Timestamp has the same convention as that of sensor data. The time represents the first row of event.
 
 2. Because it's a daily file, normally there will only be one file for a day. 
 
