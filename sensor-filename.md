@@ -107,9 +107,4 @@ See a predefined [list](#) for recommended data id sources for different data ty
 
 3. In `UTC` or `GMT` time zone.
 
-{% common %}
-#### Examples
-
-`M0500` means `UTC-5h` which is the United States Eastern Standard Time. See [wikipedia](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) for a complete map between time zone offset and time zone region code.
-
 {% endmethod %}
