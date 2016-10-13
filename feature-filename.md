@@ -22,7 +22,7 @@ Feature files could be in arbitrary length. But for on-the-fly computation, it i
 
 #### Examples
 
-`SpadesLab`, `SpadesTwoDays`, `SpadesThreeMonths`, `UserDefined`, `CrowdSourcing`
+`Correlation`, `DominantFrequency`, `Variance`, `ActivityCount`
 
 
 
