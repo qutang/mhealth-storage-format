@@ -26,9 +26,11 @@ HEADER_TIME_STAMP,[PARTICIPANT_ID],COL1,COL2,COL3,...
 ### `event` file
 > Store **formatted** event information (numerical or categorical) happens at a time point, such as EMA prompt questions and responses.
 
+##### Filename Convention
 ```
 EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 ```
+
 
 ### `annotation` file
 
