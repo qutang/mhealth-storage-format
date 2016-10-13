@@ -2,9 +2,6 @@
 Store numerical or categorical feature data derived from `sensor` or `event` files.
 
 ## File format
-
-
-
 In csv format, separated by `,`, no white space.
 
 
