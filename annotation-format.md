@@ -14,7 +14,7 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 {% method %}
 
 ### Column name
-1. `HEADER_TIME_STAMP` is **required** to be the first column, indicating the annotating time.
+1. `HEADER_TIME_STAMP` is **required** to be the first column, indicating the annotating time. (It's possible user annotates something after it has happened for a while)
 2. `START_TIME` is **required** to be the second column, indicating the start time of the annotation.
 2. Other column names are in UPPERCASE style, separated by `_`, allowed characters: *alphabets* and *digits*.
 3. Column names should be predefined for a specific event type, including its name and value type.
