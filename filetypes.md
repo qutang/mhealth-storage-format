@@ -13,7 +13,7 @@ These file types will appear as suffix in a filename, for example,
 
 > User can add their own `sensor type` to define new `senosr` data file format.
 
-#### Filename
+##### Filename
 ```
 SensorType-DataType.SENSORID-DATAID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.sensor.csv(.gz)
 
