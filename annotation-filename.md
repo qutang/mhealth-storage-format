@@ -43,12 +43,7 @@ Annotation files are divided into **hourly** files.
 
 ### Timestamp
 
-
-
-1. Timestamp has the same convention as that of sensor data. The time represents the first row of event.
-
-
-
+1. Timestamp has the same convention as that of sensor data. The time represents the first row of annotation.
 2. Because it's a daily file, normally there will only be one file for a day.
 
 
