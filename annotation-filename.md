@@ -43,6 +43,7 @@ Annotation files are divided into **hourly** files.
 
 1. It's possible annotation set gets updated, then use `VERSIONCODE` to indicate the difference.
 2. Optional, if omit, use `NA` instead.
+3. Allowed characters: *alphabets* and *digits*.
 
 ### Timestamp
 
