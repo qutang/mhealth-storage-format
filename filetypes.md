@@ -18,7 +18,6 @@ SensorType-DataType.SENSORID-DATAID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHm
 > User can add their own `sensor type` to define new `senosr` data file format.
 
 ### `event` file
-
 ```
 EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 ```
