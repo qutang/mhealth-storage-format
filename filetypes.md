@@ -33,8 +33,8 @@ EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 
 ##### File format
 ```
-HEADER_TIME_STAMP,DIRECTION,NUMBER
-2015-01-05 15:23:00.244,Out,617-xxx-xxxx
+HEADER_TIME_STAMP,DIRECTION,NUMBER,DURATION_IN_MIN
+2015-01-05 15:23:00.244,Out,617-xxx-xxxx,
 ```
 
 ### `annotation` file
