@@ -10,6 +10,14 @@ SensorType-EventType.SENSORID-EVENTTYPE-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P
 
 Event files are divided into **daily** files, as hourly files will be too sparse to be insightful.
 
+### SensorType
+
+1. Same as what was described in `sensor`.
+
+2. By default, most events are collected through the phone, so the value would be `AndroidPhone` or `iPhone`.
+
+3. In case some of the events are collected by paper or questionnare, the value could be `Paper`, `Questionnare`, `ShortMessage`, `PhoneCall` or `Interview`.
+
 {% method %}
 ### EventType
 
@@ -19,7 +27,7 @@ Event files are divided into **daily** files, as hourly files will be too sparse
 
 3. Required.
 
-4. Some of the events have the same name as sensor type, but are used for different purpose, mainly to record abnormal or change of status. Such as low battery, charging, bluetooth connect/disconnect, cpu wakeup/sleep, low storage, and low memory.
+4. Some of the events have the same name as data type, but are used for different purpose, mainly to record abnormal or change of status. Such as low battery, charging, bluetooth connect/disconnect, cpu wakeup/sleep, low storage, and low memory.
 
 {% common %}
 
