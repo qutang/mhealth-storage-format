@@ -39,8 +39,7 @@ See a predefined [list](#) of event id and corresponding event types.
 
 ### EVENTTYPE
 
-1. local identifier for event types.
-
+1. Same as EventType but in uppercase.
 2. UPPERCASE style, allowed characters: *alphabets*.
 
 See a predefined [list](#) of event id and corresponding event types.
