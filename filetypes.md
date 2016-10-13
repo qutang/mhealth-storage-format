@@ -18,7 +18,10 @@ These file types will appear as suffix in a filename, for example,
 SensorType-DataType.SENSORID-DATAID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.sensor.csv(.gz)
 ```
 ##### File format
-
+```
+HEADER_TIME_STAMP,[PARTICIPANT_ID],COL1,COL2,COL3,...
+2015-01-05 15:23:00.244,[P1],2.456,3.123,4.321,2.331,...
+```
 
 ### `event` file
 ```
