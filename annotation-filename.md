@@ -4,8 +4,6 @@ Store **formatted** annotations from a predefined or user defined annotation set
 
 ## Filename convention
 
-
-
 ```
 
 EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
