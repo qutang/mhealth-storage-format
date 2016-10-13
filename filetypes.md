@@ -31,6 +31,7 @@ HEADER_TIME_STAMP,[PARTICIPANT_ID],COL1,COL2,COL3,...
 EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 ```
 
+##### File format
 
 ### `annotation` file
 
