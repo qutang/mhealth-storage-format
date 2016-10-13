@@ -8,7 +8,7 @@
 | `Gyroscope` | `PITCH`, `ROLL`, `YAW` | `DEGREE`, `RADIUS`
 | `Battery` | `LEVEL` | `PERCENTAGE`, `VOLTAGE`
 | `Sound` | `VOL` | `DB`
-| `Light` | `LIGHT` | `BRIGHTNESS` | `LUM`
+| `Light` | `BRIGHTNESS` | `LUM`
 | `GPSLocation` | `GPS` | `LATITUDE`, `LONGITUDE` | `DEGREE`, `RADIUS`
 | `WifiSignal` | `WIFI` | `[NETWORK_NAME]` | NA
 | `CellularSignal` | `CELL` | `[PROVIDER_NAME]` | NA
