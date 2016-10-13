@@ -8,7 +8,7 @@ Store numerical or categorical feature data derived from `sensor` or `event` fil
 FeatureType.FEATUREID_VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.feature.csv
 ```
 
-Annotation files are divided into **hourly** files.
+Feature files could be in arbitrary length. But for on-the-fly computation, it is recommended to store features in **hourly** length.
 
 
 
