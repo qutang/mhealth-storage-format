@@ -5,7 +5,7 @@ Store numerical or categorical feature data derived from `sensor` or `event` fil
 ## Filename convention
 
 ```
-FeatureType.ANNOTATIONSETID-ANNOTATORID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.annotation.csv
+FeatureType.FEATUREID_VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.annotation.csv
 ```
 
 Annotation files are divided into **hourly** files.
