@@ -19,15 +19,17 @@
 
 ## `EMA`
 
-| COLUMN_NAME | Value type |
-| --- | --- |
+| COLUMN_NAME | Value type | Values |
+| --- | --- | --- |
 | | |
 
 ## `PhoneCall`
 
-| COLUMN_NAME | Value type |
-| --- | --- |
-| | |
+| COLUMN_NAME | Value type | Values |
+| --- | --- | --- |
+| DIRECTION | Categorical | `In`, `Out` |
+| NUMBER | String | e.g. `6170000000` |
+| DURATION\_IN\_[HOURS/MINUTES/SECONDS] | numeric | e.g. 5 | 
 
 ## `PhoneSMS`
 
