@@ -19,9 +19,6 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,[FEATURE_NAME],...
 | PARTICIPANT_ID | last | String | e.g. SPADES_1 | No |
 
 [^1] Actual feature name, there may be multiple ones.
-[^2] 0 means random guess, 1 means for sure.
-
-
 
 ### `HEADER_TIME_STAMP`, `START_TIME`, `STOP_TIME` format
 
