@@ -10,8 +10,6 @@ AnnotationSet.ANNTATIONSETID-ANNOTATORID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.annot
 
 Annotation files are divided into **hourly** files.
 
-
-
 {% method %}
 
 ### EventType
