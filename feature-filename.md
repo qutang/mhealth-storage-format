@@ -10,6 +10,8 @@ FeatureType.FEATUREID_VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.feature.csv
 
 Feature files could be in arbitrary length. But for on-the-fly computation, it is recommended to store features in **hourly** length to keep the file size reasonably small for fast I/O.
 
+This often ships with source code that indicates the computation of the feature, the source code should be clear about FEATUREID and VERSIONCODE.
+
 {% method %}
 
 ### FeatureType
