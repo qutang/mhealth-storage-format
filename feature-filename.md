@@ -1,11 +1,11 @@
 # `feature`
 
-Store **formatted** annotations from a predefined or user defined annotation set.
+Store numerical or categorical feature data derived from `sensor` or `event` files.
 
 ## Filename convention
 
 ```
-AnnotationSet.ANNOTATIONSETID-ANNOTATORID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.annotation.csv
+FeatureType.ANNOTATIONSETID-ANNOTATORID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.annotation.csv
 ```
 
 Annotation files are divided into **hourly** files.
