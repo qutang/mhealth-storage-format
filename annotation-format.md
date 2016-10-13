@@ -14,7 +14,8 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 {% method %}
 
 ### Column name
-1. `HEADER_TIME_STAMP` is **required** to be the first column.
+1. `HEADER_TIME_STAMP` is **required** to be the first column, indicating the annotating time.
+2. `START_TIME` is **required** to be the second column, indicating the start time of the annotation.
 2. Other column names are in UPPERCASE style, separated by `_`, allowed characters: *alphabets* and *digits*.
 3. Column names should be predefined for a specific event type, including its name and value type.
 4. If containing multiple participants, the second column should be `PARTICIPANT_ID`.
@@ -25,56 +26,9 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 
 1. In local time zone, meaning the time zone where event happens. Time zone can be identified through [filename convention](#).
 
-
-
-
-
-
-
 2. `YYYY-MM-DD HH:mm:ss.SSS`
-
-
-
-
-
-
 
 ### Data format
 
-
-
-
-
-
-
 3. No white space.
-
-
-
-
-
-
-
 4. If value is not available, use `""` empty string instead.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
