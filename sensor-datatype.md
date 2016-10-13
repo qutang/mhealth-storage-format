@@ -15,7 +15,7 @@
 | `BluetoothSignal` | `[NODE_NAME]` | NA
 | `HeartRate` | `HR` | `BPM`
 | `CPU` | `USAGE` | `PERCENTAGE`
-| `GPU` | `GPU` | `USAGE` | `PERCENTAGE`
+| `GPU` | `USAGE` | `PERCENTAGE`
 | `RAM` | `RAM` | `USAGE` | `PERCENTAGE`, `MB`
 | `ExternalStorage` | `EXSTORAGE` | `USAGE` | `PERCENTAGE`, `MB`
 | `InternalStorage` | `INSTORAGE` | `USAGE` | `PERCENTAGE`, `MB`
