@@ -28,7 +28,7 @@ HEADER_TIME_STAMP,[PARTICIPANT_ID],COL1,COL2,COL3,...
 
 ##### Filename Convention
 ```
-SensorType-EventType.SENSORID-EVENTID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
+SensorType-EventType.SENSORID-EVENTTYPE-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 ```
 
 ##### File format
