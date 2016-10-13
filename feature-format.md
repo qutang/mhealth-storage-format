@@ -25,12 +25,7 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,[FEATURE_NAME],...
 
 2. `YYYY-MM-DD HH:mm:ss.SSS`
 
-
-
 ### Other columns' format
-
-
-
 3. No white space.
 
 4. If value is not available, use `""` empty string instead.
