@@ -45,6 +45,12 @@ See a predefined [list](#) of event id and corresponding event types.
 
 See a predefined [list](#) of event id and corresponding event types.
 
+{% common %}
+
+#### Examples
+
+Phone event id: `[IMEI]-PhoneCall`
+
 {% endmethod %}
 
 {% method %}
