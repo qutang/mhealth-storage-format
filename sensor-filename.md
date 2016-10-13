@@ -68,7 +68,7 @@ See the predefined [list](#) for recommended sensor id sources for different sen
 {% method %}
 ### DATATYPE
 
-1. A local unique identifier for a specific sensor on a device. For single sensor device, it could be omitted. For IMU devices, it could be a descriptive string.
+1. Uppercase version of DataType, used as locally unique identifier.
 
 2. UPPERCASE, allowed characters: *alphabets* and *digits*.
 
