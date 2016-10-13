@@ -16,10 +16,9 @@ This often ships with source code that indicates the computation of the feature,
 
 ### FeatureType
 
-1. Used to represent the name of the feature.
+1. Used to represent the name of the feature. If multiple features are combined into one file, becoming a feature set, then feature type should clearly state the name of the feature set.
 2. CamelStyle, allowed characters: *alphabets* and *digits*.
 3. Required.
-4. If multiple features are combined into one file, becoming a feature set, then feature type should clearly state the name of the feature set.
 
 {% common %}
 
