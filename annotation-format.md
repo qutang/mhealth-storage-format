@@ -18,6 +18,8 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 2. `START_TIME` is **required** to be the second column, indicating the start time of the annotation.
 3. `STOP_TIME` is **required** to be the third column, indicating the stop time of the annotation.
 4. `LABEL_NAME` is **required** to be the fourth column, indicating the name of the annotation, which should be locally unique among the annotation set.
+5. Optional columns after `LABEL_NAME`
+     * ``
 
 **Note that if containing multiple participants, `PARTICIPANT_ID` should be appended as the last column.**
 
