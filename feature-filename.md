@@ -34,12 +34,14 @@ For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`
 
 ### FEATUREID
 
-1. Locally unique identifible for current feature set.
+1. Locally unique identifible for current feature set, flexible to include location, id, and any information.
 2. UPPERCASE style, allowed characters: *alphabets* and *digits*.
 3. Required.
 
 {% common %}
 #### Examples
+
+
 
 {% endmethod %}
 
