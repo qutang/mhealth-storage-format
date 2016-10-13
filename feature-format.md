@@ -19,7 +19,7 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,[FEATURE_NAME],...
 | CONFIDENCE[^2] | 5 | 0-1 | e.g. 0.5 | No |
 | PARTICIPANT_ID | last | String | e.g. SPADES_1 | No |
 
-[^1] actual feature name. 
+[^1] actual feature name, there may be multiple ones for each axis.
 
 
 [^2] 0 means random guess, 1 means for sure.
