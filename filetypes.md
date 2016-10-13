@@ -41,6 +41,9 @@ HEADER_TIME_STAMP,DIRECTION,NUMBER,DURATION_IN_SECONDS
 > Store annotation information by user or by annotator. Annotation set may be from user definition or predefined annotation set.
 
 ##### Filename Convention
+```
+AnnotationSet.ANNOTATIONSETID-ANNOTATORID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.annotation.csv
+```
 
 ##### File format
 ```
