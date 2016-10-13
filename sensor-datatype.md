@@ -6,8 +6,8 @@
 | --- | --- | --- | --- |
 | `AccelerometerCalibrated` | `X`, `Y`, `Z` | `G`, `MS`
 | `Gyroscope` | `PITCH`, `ROLL`, `YAW` | `DEGREE`, `RADIUS`
-| `Battery` | `BATTERY` | `LEVEL` | `PERCENTAGE`, `VOLTAGE`
-| `Sound` | `SOUND` | `VOL` | `DB`
+| `Battery` | `LEVEL` | `PERCENTAGE`, `VOLTAGE`
+| `Sound` | `VOL` | `DB`
 | `Light` | `LIGHT` | `BRIGHTNESS` | `LUM`
 | `GPSLocation` | `GPS` | `LATITUDE`, `LONGITUDE` | `DEGREE`, `RADIUS`
 | `WifiSignal` | `WIFI` | `[NETWORK_NAME]` | NA
