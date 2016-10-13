@@ -5,7 +5,7 @@ Store **formatted** annotations from a predefined or user defined annotation set
 ## Filename convention
 
 ```
-AnnotationSet.ANNTATIONSETID-ANNOTATORID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.annotation.csv
+AnnotationSet.ANNTATIONSETID-ANNOTATORID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.annotation.csv
 ```
 
 Annotation files are divided into **hourly** files.
