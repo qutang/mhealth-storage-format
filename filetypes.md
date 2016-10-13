@@ -66,6 +66,12 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 
 > Store numerical or categorical feature data derived from `sensor` or `event` files.
 
+##### Filename Convention
+```
+FeatureType.FEATUREID_VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.feature.csv
+```
+
+
 ### `class` file
 
 > Store class labels used for machine learning tasks derived from `annotation`, `event` or `note` files.
