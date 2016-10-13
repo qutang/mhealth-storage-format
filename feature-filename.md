@@ -30,13 +30,15 @@ For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`
 
 {% endmethod %}
 
-{%  %}
+{% method %}
 
 ### FEATUREID
 
 1. Locally unique identifible for current feature set.
 2. UPPERCASE style, allowed characters: *alphabets* and *digits*.
 3. Required.
+
+{% endmethod %}
 
 ### VERSIONCODE
 
