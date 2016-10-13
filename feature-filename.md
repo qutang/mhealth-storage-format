@@ -28,7 +28,7 @@ Feature files could be in arbitrary length. But for on-the-fly computation, it i
 
 ### FEATUREID
 
-1. Locally unique identifier for the annotation set.
+1. Locally unique identifier for among all features.
 
 2. Globally unique identifier for the annotation set when combining with ANNOTATORID and VERSIONCODE.
 
