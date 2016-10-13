@@ -27,7 +27,7 @@ Event files are divided into **daily** files, as hourly files will be too sparse
 
 3. Required.
 
-4. Locally unique.
+4. Locally unique. To avoid confliction with `DataType`, add suffix `Event` if necessary.
 
 {% common %}
 
