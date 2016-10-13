@@ -29,11 +29,13 @@ See a [complete list](#) of predefined sensor types.
 
 ### DataType
 
-1. Used to specify the type of data this file refers to. The same device can support collecting multiple types of data, such as smart phone can be used to collect acceleration, orientation, light and sound. Locally unique.
+1. Used to specify the type of data this file refers to. The same device can support collecting multiple types of data, such as smart phone can be used to collect acceleration, orientation, light and sound. 
 
-2. Camel Style, allowed characters: *alphabets*.
+2. Locally unique.
 
-3. Required
+3. Camel Style, allowed characters: *alphabets*.
+
+4. Required.
 
 {% common %}
 #### Examples
