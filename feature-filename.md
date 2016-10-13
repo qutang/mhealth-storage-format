@@ -30,11 +30,6 @@ For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`
 
 {% endmethod %}
 
-### SOURCEID
-
-1. SENSORID-EVENTID.
-2. Either one is optional, depending on where this feature is computed from.
-
 ### FEATUREID
 
 1. Locally unique identifier for current feature set.
