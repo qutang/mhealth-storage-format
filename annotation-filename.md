@@ -8,8 +8,6 @@ Store **formatted** annotations from a predefined or user defined annotation set
 AnnotationSet.ANNTATIONSETID-ANNOTATORID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 ```
 
-
-
 Event files are divided into **daily** files, as hourly files will be too sparse to be insightful.
 
 
