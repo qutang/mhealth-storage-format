@@ -16,7 +16,6 @@ These file types will appear as suffix in a filename, for example,
 ##### Filename
 ```
 SensorType-DataType.SENSORID-DATAID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.sensor.csv(.gz)
-
 ```
 
 
