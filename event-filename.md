@@ -33,7 +33,7 @@ Event files are divided into **daily** files, as hourly files will be too sparse
 
 #### Examples
 
-Smart phone events: `EMA`, `PhoneCall`, `PhoneSMS`, `NetworkEvent`, `BatteryEvent`, `Bluetooth`, `CPU`, `RAM`, `ExternalStorage`, `InternalStorage`.
+Smart phone events: `EMA`, `PhoneCall`, `PhoneSMS`, `NetworkEvent`, `BatteryEvent`, `BluetoothEvent`, `CPUEvent`, `RAMEvent`, `ExternalStorageEvent`, `InternalStorageEvent`.
 
 Indoor events: `ObjectMove`, `ObjectStatus`.
 
