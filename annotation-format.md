@@ -14,6 +14,17 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 {% method %}
 
 ### Columns
+
+| COLUMN_NAME | POSITION | Value type | Values | Required |
+| --- | --- | --- | --- | --- |
+| HEADER_TIME_STAMP | String | e.g. `2015-01-05 15:23:00.244` | Yes |
+| START_TIME | Categorical | `In`, `Out` | Yes |
+| NUMBER | Encrypted String | e.g. `xxxxxxxxxx` | Yes |
+| DURATION\_IN\_[UNIT][^1] | numeric | e.g. 5 | Yes |
+
+
+
+
 1. `HEADER_TIME_STAMP` is **required** to be the first column, indicating the annotating time. (It's possible user annotates something after it has happened for a while)
 2. `START_TIME` is **required** to be the second column, indicating the start time of the annotation.
 3. `STOP_TIME` is **required** to be the third column, indicating the stop time of the annotation.
