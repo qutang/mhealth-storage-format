@@ -48,6 +48,6 @@
 | COLUMN_NAME | Value type | Values |
 | --- | --- | --- |
 | NAME | String | e.g. CVS |
-| DISTANCE_IN_[UNIT][^3] | Numerical | e.g. 1.4 |
+| DISTANCE\_IN\_[UNIT][^3] | Numerical | e.g. 1.4 |
 
 [^3] UNIT could be `MILES`, `METERS`
