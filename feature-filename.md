@@ -35,8 +35,6 @@ Feature files could be in arbitrary length. But for on-the-fly computation, it i
 
 ### VERSIONCODE
 
-
-
 1. It's possible annotation set gets updated, then use `VERSIONCODE` to indicate the difference.
 
 2. Optional, if omit, use `NA` instead.
