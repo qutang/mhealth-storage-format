@@ -37,7 +37,7 @@ See a predefined [list](#) of event id and corresponding event types.
 
 {% method %}
 
-### EVENTID
+### EVENTTYPE
 
 1. local identifier for event types.
 
