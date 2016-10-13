@@ -15,7 +15,7 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,[FEATURE_NAME],...
 | HEADER_TIME_STAMP | 1 | String | e.g. `2015-01-05 15:23:00.244` | Yes |
 | START_TIME | 2| String | e.g. `2015-01-05 15:23:00.244` | Yes |
 | STOP_TIME | 3 | String | e.g. `2015-01-05 15:23:00.244` | Yes |
-| [FEATURE_NAME][^1] | 4-? | String | e.g. Walking | Yes |
+| [FEATURE_NAME][^1] | 4-? | String | e.g. X_CORRELATION | Yes |
 | CONFIDENCE[^2] | 5 | 0-1 | e.g. 0.5 | No |
 | PARTICIPANT_ID | last | String | e.g. SPADES_1 | No |
 
