@@ -49,22 +49,6 @@ See a [complete list](#) of predefined sensor data types.
 
 {% method %}
 
-### VersionCode
-
-1. Used to specify the version for the specific sensor, as firmware or software may be upgraded. This is used to distinguish data collected from the same sensor but with different firmware or software version.
-
-2. CamelStyle, allowed characters: *alphabets* and *digits*.
-
-3. Optional. If omitted, use `NA` as default.
-
-{% common %}
-#### Examples
-`V1`, `V2`, `FW10`, `SW23`
-
-{% endmethod %}
-
-{% method %}
-
 ### SENSORID
 
 1. A global unique identifier for a specific device. For most devices, it could be the serial number. For phone, it could also be the IMEI number.
