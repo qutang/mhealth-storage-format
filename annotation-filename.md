@@ -20,7 +20,7 @@ Annotation files are divided into **hourly** files.
 
 {% common %}
 #### Examples
-`SpadesLab`
+`SpadesLab`, `SpadesTwoDays`, `SpadesThreeMonths`, `UserDefined`, `CrowdSourcing`
 
 See a predefined [list](#) of event id and corresponding event types.
 
