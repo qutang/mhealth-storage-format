@@ -35,10 +35,6 @@ See a predefined [list](#) of event id and corresponding event types.
 
 {% endmethod %}
 
-### SENSORID
-
-Same as sensor id described in sensor data.
-
 ### EVENTID
 
 1. local identifier for event types.
