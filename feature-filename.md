@@ -24,8 +24,6 @@ Feature files could be in arbitrary length. But for on-the-fly computation, it i
 
 `Correlation`, `DominantFrequency`, `Variance`, `ActivityCount`
 
-
-
 {% endmethod %}
 
 
