@@ -39,36 +39,9 @@ Annotation files are divided into **hourly** files.
 3. Required.
 4. If it's user's own annotation, the ANNOTATORID should be the same as PARTICIPANT ID.
 
-{% method %}
-
 ### Timestamp
 
 1. Timestamp has the same convention as that of sensor data. The time represents the first row of annotation.
-2. Because it's a daily file, normally there will only be one file for a day.
-
-
-
-3. In case time zone is changed during the day, there will be multiple files for one day.
-
-
-
-{% common %}
-
-
-
-#### Examples
-
-
-
-If time zone changes from M0500 to M0300 at 10am on a day, and an event happens at 12pm in M0500 time zone, then the new file would have timestamp `YYYY-MM-DD-14-00-00-000-M0300` in the filename.
-
-
-
-
-
-
-
-{% endmethod %}
 
 
 
