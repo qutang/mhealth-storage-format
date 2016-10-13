@@ -59,7 +59,7 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 
 ##### Filename Convention
 ```
-FeatureType.FEATUREID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.feature.csv
+FeatureType.FEATUREID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.feature.csv[.gz]
 ```
 
 ##### File format
