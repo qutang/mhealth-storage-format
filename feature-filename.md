@@ -24,7 +24,7 @@ This often ships with source code that indicates the computation of the feature,
 
 #### Examples
 
-`Correlation`, `DominantFrequency`, `Variance`, `ActivityCount`
+For single feature file: `Correlation`, `DominantFrequency`, `Variance`, `ActivityCount`
 
 {% endmethod %}
 
