@@ -25,10 +25,10 @@
 
 ## `PhoneCall`
 
-| COLUMN_NAME | Value type | Values |
-| --- | --- | --- |
-| DIRECTION | Categorical | `In`, `Out` |
-| NUMBER | String | e.g. `6170000000` |
+| COLUMN_NAME | Value type | Values | Required |
+| --- | --- | --- | --- |
+| DIRECTION | Categorical | `In`, `Out` | Yes |
+| NUMBER | Encrypted String | e.g. `xxxxxxxxxx` | No |
 | DURATION\_IN\_[UNIT][^1] | numeric | e.g. 5 | 
 
 [^1] UNIT could be `HOURS`, `MINUTES`, `SECONDS`
