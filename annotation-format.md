@@ -17,9 +17,10 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 
 | COLUMN_NAME | POSITION | Value type | Values | Required |
 | --- | --- | --- | --- | --- |
-| HEADER_TIME_STAMP | String | e.g. `2015-01-05 15:23:00.244` | Yes |
-| START_TIME | Categorical | `In`, `Out` | Yes |
-| NUMBER | Encrypted String | e.g. `xxxxxxxxxx` | Yes |
+| HEADER_TIME_STAMP | 1 | String | e.g. `2015-01-05 15:23:00.244` | Yes |
+| START_TIME | 2| String | e.g. `2015-01-05 15:23:00.244` | Yes |
+| STOP_TIME | 3 | String | e.g. `2015-01-05 15:23:00.244` | Yes |
+
 | DURATION\_IN\_[UNIT][^1] | numeric | e.g. 5 | Yes |
 
 
