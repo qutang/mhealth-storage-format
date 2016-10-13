@@ -25,15 +25,12 @@ Annotation files are divided into **hourly** files.
 
 {% endmethod %}
 
-### SENSORID
+### ANNOTATIONSETID
 
+1. Locally unique identifier for the annotation set.
+2. Globally unique identifier for the annotation set when combining with ANNOTATORID and VERSIONCODE.
 
-
-Same as sensor id described in sensor data.
-
-
-
-### EVENTID
+### ANNOTATORID
 
 
 
