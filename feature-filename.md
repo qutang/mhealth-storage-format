@@ -33,7 +33,7 @@ For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`
 ### FEATUREID
 
 1. Locally unique identifier for among all features.
-2. Globally unique identifier when combining with VERSIONCODE.
+2. Globally unique identifier when combining with SOURCEID and VERSIONCODE.
 3. UPPERCASE style, allowed characters: *alphabets* and *digits*.
 4. Required.
 
