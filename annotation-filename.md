@@ -41,8 +41,6 @@ Annotation files are divided into **hourly** files.
 
 {% method %}
 
-
-
 ### Timestamp
 
 
