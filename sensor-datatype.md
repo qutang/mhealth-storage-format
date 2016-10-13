@@ -2,10 +2,10 @@
 
 ** User can add their own definition of data types when using this specification**.
 
-| DataType | DATAID | MEASUREMENT | UNIT
+| DataType | MEASUREMENT | UNIT
 | --- | --- | --- | --- |
-| `AccelerometerCalibrated` | `ACCEL` | `X`, `Y`, `Z` | `G`, `MS`
-| `Gyroscope` | `GYRO` | `PITCH`, `ROLL`, `YAW` | `DEGREE`, `RADIUS`
+| `AccelerometerCalibrated` | `X`, `Y`, `Z` | `G`, `MS`
+| `Gyroscope` | `PITCH`, `ROLL`, `YAW` | `DEGREE`, `RADIUS`
 | `Battery` | `BATTERY` | `LEVEL` | `PERCENTAGE`, `VOLTAGE`
 | `Sound` | `SOUND` | `VOL` | `DB`
 | `Light` | `LIGHT` | `BRIGHTNESS` | `LUM`
