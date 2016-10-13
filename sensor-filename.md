@@ -14,7 +14,7 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
 2. Camel Style, allowed characters: *alphabets* and *digits*.
 
-3. Required
+3. Required.
 
 {% common %} 
 
