@@ -13,7 +13,7 @@
 | `WifiSignal` | `[NETWORK_NAME]` | NA
 | `CellularSignal` | `[PROVIDER_NAME]` | NA
 | `BluetoothSignal` | `[NODE_NAME]` | NA
-| `HeartRate` | `HR` | `HR` | `BPM`
+| `HeartRate` | `HR` | `BPM`
 | `CPU` | `CPU` | `USAGE` | `PERCENTAGE`
 | `GPU` | `GPU` | `USAGE` | `PERCENTAGE`
 | `RAM` | `RAM` | `USAGE` | `PERCENTAGE`, `MB`
