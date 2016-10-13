@@ -6,8 +6,6 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
     SensorType-DataType.SENSORID-DATATYPE-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.sensor.csv(.gz)
 
-**DEVICEID-SENSORID** can be used as global unique identifier and primary key.
-
 {% method %}
 
 ### SensorType {#SensorType}
