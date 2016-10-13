@@ -9,120 +9,15 @@ In csv format, separated by `,`, no white space.
 ```
 HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 2015-01-05 15:23:00.244,2015-01-05 15:20:00.244,2015-01-05 15:21:00.244,Walking
-
-
-
 ```
-
-
-
-
-
-
 
 {% method %}
 
-
-
-
-
-
-
 ### Column name
-
-
-
-
-
-
-
 1. `HEADER_TIME_STAMP` is **required** to be the first column.
-
-
-
-
-
-
-
 2. Other column names are in UPPERCASE style, separated by `_`, allowed characters: *alphabets* and *digits*.
-
-
-
-
-
-
-
 3. Column names should be predefined for a specific event type, including its name and value type.
-
-
-
-
-
-
-
 4. If containing multiple participants, the second column should be `PARTICIPANT_ID`.
-
-
-
-
-
-
-
-{% common %}
-
-
-
-
-
-
-
-#### Examples
-
-
-
-
-
-
-
-For EMA, column names may include `RESPONSE_TIME`, `PROMPT_TIME`, `REPROMPT_INTERVAL`, `PROMPT_METHOD`, `QUESTION`, `ANSWER`, `PROMPT_INDEX`, `SURVEY_INDEX`.
-
-
-
-
-
-
-
-For `PhoneCall`, it may include `DIRECTION`, `NUMBER`, `DURATION`
-
-
-
-
-
-
-
-For `ObjectMove`, it may include `NODE_NAME`, `NODE_ID`
-
-
-
-
-
-
-
-For `NearbyPlace`, it may include `DISTANCE`, `PLACE_NAME`, `CATEGORY_NAME`.
-
-
-
-
-
-
-
-See a predefined [list](#) of event id and corresponding event types.
-
-
-
-
-
-
 
 {% endmethod %}
 
