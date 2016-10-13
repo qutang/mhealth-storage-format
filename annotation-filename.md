@@ -12,7 +12,7 @@ Annotation files are divided into **hourly** files.
 
 {% method %}
 
-### EventType
+### AnnotationSet
 
 
 
