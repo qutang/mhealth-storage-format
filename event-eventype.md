@@ -41,7 +41,7 @@
 | NUMBER | Encrypted String | e.g. `xxxxxxxxxxxxxx` | Yes |
 | LENGTH[^2] | Numerical | e.g. 100 | No |
 
-[^2] Number of words in the message. Optional.
+[^2] Number of words in the message.
 
 ## `NearbyPlace`
 
