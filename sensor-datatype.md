@@ -16,7 +16,7 @@
 | `HeartRate` | `HR` | `BPM`
 | `CPU` | `USAGE` | `PERCENTAGE`
 | `GPU` | `USAGE` | `PERCENTAGE`
-| `RAM` | `RAM` | `USAGE` | `PERCENTAGE`, `MB`
+| `RAM` | `USAGE` | `PERCENTAGE`, `MB`
 | `ExternalStorage` | `EXSTORAGE` | `USAGE` | `PERCENTAGE`, `MB`
 | `InternalStorage` | `INSTORAGE` | `USAGE` | `PERCENTAGE`, `MB`
 
