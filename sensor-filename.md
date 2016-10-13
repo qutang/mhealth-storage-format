@@ -86,8 +86,6 @@ See a predefined [list](#) for recommended data id sources for different data ty
 
 {% method %}
 
-
-
 ### VERSIONCODE
 1. Used to specify the version for the specific sensor, as firmware or software may be upgraded. This is used to distinguish data collected from the same sensor but with different firmware or software version.
 
