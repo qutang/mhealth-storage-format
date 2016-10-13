@@ -20,11 +20,8 @@ SensorType-DataType-VersionCode.SENSORID-DATAID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHm
 ### `event` file
 
 ```
-
 EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
-
 ```
-
 
 > Store **formatted** event information (numerical or categorical) happens at a time point, such as EMA prompt questions and responses.
 
