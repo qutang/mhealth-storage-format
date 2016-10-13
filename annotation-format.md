@@ -29,7 +29,7 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 
 2. `YYYY-MM-DD HH:mm:ss.SSS`
 
-### Data format
+### Other columns' format
 
 3. No white space.
 4. If value is not available, use `""` empty string instead.
