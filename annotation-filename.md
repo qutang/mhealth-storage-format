@@ -2,8 +2,6 @@
 
 Store **formatted** annotations from a predefined or user defined annotation set.
 
-
-
 ## Filename convention
 
 
