@@ -51,15 +51,6 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 2015-01-05 15:23:00.244,2015-01-05 15:20:00.244,2015-01-05 15:21:00.244,Walking
 ```
 
-
-### `log` file
-
-> Store **formatted** debug log information for devices.
-
-### `note` file
-
-> Store **unformatted** user or researcher's note about experiment.
-
 ## File types for data analysis
 
 ### `feature` file
