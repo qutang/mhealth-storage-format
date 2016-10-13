@@ -39,8 +39,6 @@ Feature files could be in arbitrary length. But for on-the-fly computation, it i
 2. Optional, if omit, use `NA` instead.
 3. Allowed characters: *alphabets* and *digits*.
 
-
-
 ### Timestamp
 
 
