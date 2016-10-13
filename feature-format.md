@@ -16,7 +16,6 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,[FEATURE_NAME],...
 | START_TIME | 2| String | e.g. `2015-01-05 15:23:00.244` | Yes |
 | STOP_TIME | 3 | String | e.g. `2015-01-05 15:23:00.244` | Yes |
 | [FEATURE_NAME][^1] | 4-? | String | e.g. `X_CORRELATION`, `WRIST_X_CORRELATION` | Yes |
-| [^2] | 5 | 0-1 | e.g. 0.5 | No |
 | PARTICIPANT_ID | last | String | e.g. SPADES_1 | No |
 
 [^1] actual feature name, there may be multiple ones for each axis.
