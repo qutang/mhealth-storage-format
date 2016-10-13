@@ -14,7 +14,7 @@
 | `CellularSignal` | `[PROVIDER_NAME]` | NA
 | `BluetoothSignal` | `[NODE_NAME]` | NA
 | `HeartRate` | `HR` | `BPM`
-| `CPU` | `CPU` | `USAGE` | `PERCENTAGE`
+| `CPU` | `USAGE` | `PERCENTAGE`
 | `GPU` | `GPU` | `USAGE` | `PERCENTAGE`
 | `RAM` | `RAM` | `USAGE` | `PERCENTAGE`, `MB`
 | `ExternalStorage` | `EXSTORAGE` | `USAGE` | `PERCENTAGE`, `MB`
