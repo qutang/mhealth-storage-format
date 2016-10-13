@@ -29,7 +29,9 @@
 | --- | --- | --- |
 | DIRECTION | Categorical | `In`, `Out` |
 | NUMBER | String | e.g. `6170000000` |
-| DURATION\_IN\_[HOURS/MINUTES/SECONDS] | numeric | e.g. 5 | 
+| DURATION\_IN\_[UNIT][^1] | numeric | e.g. 5 | 
+
+[^1] UNIT could be `HOURS`, `MINUTES`, `SECONDS`
 
 ## `PhoneSMS`
 
@@ -37,9 +39,9 @@
 | --- | --- | --- |
 | DIRECTION | Categorical | `In`, `Out` |
 | NUMBER | String | e.g. `6170000000` |
-| LENGTH[^1] | Numerical | e.g. 100 |
+| LENGTH[^2] | Numerical | e.g. 100 |
 
-[^1] Number of words in the message. Optional.
+[^2] Number of words in the message. Optional.
 
 ## `NearbyPlace`
 
