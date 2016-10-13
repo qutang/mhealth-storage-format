@@ -41,7 +41,7 @@ For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`.
 {% common %}
 #### Examples
 
-`DOMINANTWRIST-`
+`DOMINANTWRIST`, `DOMINANTWRIST-PARTICIPANT1TO3`, `DOMIANTWRIST-CORRELATION`
 
 {% endmethod %}
 
