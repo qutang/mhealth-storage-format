@@ -28,18 +28,18 @@
 | COLUMN_NAME | Value type | Values | Required |
 | --- | --- | --- | --- |
 | DIRECTION | Categorical | `In`, `Out` | Yes |
-| NUMBER | Encrypted String | e.g. `xxxxxxxxxx` | No |
-| DURATION\_IN\_[UNIT][^1] | numeric | e.g. 5 | 
+| NUMBER | Encrypted String | e.g. `xxxxxxxxxx` | Yes |
+| DURATION\_IN\_[UNIT][^1] | numeric | e.g. 5 | Yes |
 
 [^1] UNIT could be `HOURS`, `MINUTES`, `SECONDS`
 
 ## `PhoneSMS`
 
-| COLUMN_NAME | Value type | Values |
-| --- | --- | --- |
-| DIRECTION | Categorical | `In`, `Out` |
-| NUMBER | String | e.g. `6170000000` |
-| LENGTH[^2] | Numerical | e.g. 100 |
+| COLUMN_NAME | Value type | Values | Required |
+| --- | --- | --- | --- |
+| DIRECTION | Categorical | `In`, `Out` | Yes |
+| NUMBER | Encrypted String | e.g. `xxxxxxxxxxxxxx` | Yes |
+| LENGTH[^2] | Numerical | e.g. 100 | No |
 
 [^2] Number of words in the message. Optional.
 
