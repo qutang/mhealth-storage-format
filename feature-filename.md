@@ -12,14 +12,9 @@ Feature files could be in arbitrary length. But for on-the-fly computation, it i
 
 {% method %}
 
-### AnnotationSet
-
-
-
+### FeatureType
 1. Used to represent the name of the annotation set.
-
 2. CamelStyle, allowed characters: *alphabets* and *digits*.
-
 3. There should be a file named [`AnnotationSet.ANNOTATIONSETID-VERSIONCODE.ontology.csv`](#) associated with the dataset.
 
 4. Required.
