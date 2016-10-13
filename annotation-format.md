@@ -17,8 +17,8 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 1. `HEADER_TIME_STAMP` is **required** to be the first column, indicating the annotating time. (It's possible user annotates something after it has happened for a while)
 2. `START_TIME` is **required** to be the second column, indicating the start time of the annotation.
 2. `STOP_TIME` is **required** to be the third column, indicating the stop time of the annotation.
-3. Column names should be predefined for a specific event type, including its name and value type.
-4. If containing multiple participants, the second column should be `PARTICIPANT_ID`.
+3. 
+4. If containing multiple participants, `PARTICIPANT_ID` should be inserted as the last column.
 
 {% endmethod %}
 
