@@ -32,20 +32,9 @@ Annotation files are divided into **hourly** files.
 
 ### ANNOTATORID
 
-
-
 1. local identifier for event types.
-
-
-
 2. UPPERCASE style, allowed characters: *alphabets*.
-
-
-
 3. Optional, only used when SENSORID is not enough to globally identify an event type.
-
-
-
 See a predefined [list](#) of event id and corresponding event types.
 
 
