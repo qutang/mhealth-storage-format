@@ -14,20 +14,9 @@ Annotation files are divided into **hourly** files.
 
 ### AnnotationSet
 
-
-
 1. Used to describe the type of event.
-
-
-
 2. CamelStyle, allowed characters: *alphabets* and *digits*.
-
-
-
 3. Required.
-
-
-
 4. Some of the events have the same name as sensor type, but are used for different purpose, mainly to record abnormal or change of status. Such as low battery, charging, bluetooth connect/disconnect, cpu wakeup/sleep, low storage, and low memory.
 
 
