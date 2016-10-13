@@ -10,11 +10,13 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 
 ### SensorType {#SensorType}
 
-1. Used to specify the type of sensor (or device, if multiple sensors are on the same device, such as phone, IMU device or smart watch), locally unique.
+1. Used to specify the type of sensor (or device, if multiple sensors are on the same device, such as phone, IMU device or smart watch).
 
-2. Camel Style, allowed characters: *alphabets* and *digits*.
+2. Locally unique.
 
-3. Required.
+3. Camel Style, allowed characters: *alphabets* and *digits*.
+
+4. Required.
 
 {% common %} 
 
