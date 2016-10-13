@@ -33,9 +33,10 @@
 
 ## `PhoneSMS`
 
-| COLUMN_NAME | Value type |
-| --- | --- |
-| | |
+| COLUMN_NAME | Value type | Values |
+| --- | --- | --- |
+| DIRECTION | Categorical | `In`, `Out` |
+| NUMBER | String | e.g. `6170000000` |
 
 ## `NearbyPlace`
 
