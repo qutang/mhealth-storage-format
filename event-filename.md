@@ -49,7 +49,6 @@ See a predefined [list](#) of event id and corresponding event types.
 
 2. UPPERCASE style, allowed characters: *alphabets* and *digits*.
 
-
 {% method %}
 
 ### Timestamp
