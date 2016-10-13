@@ -10,8 +10,6 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,[FEATURE_NAME],...
 ```
 ### Columns
 
-
-
 | COLUMN_NAME | POSITION | Value type | Values | Required |
 
 | --- | --- | --- | --- | --- |
