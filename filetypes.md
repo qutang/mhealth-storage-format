@@ -8,9 +8,6 @@ These file types will appear as suffix in a filename, for example,
 ## File types to store raw information
 
 ### `sensor` file
-```
-SensorType-DataType.SENSORID-DATAID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.sensor.csv(.gz)
-```
 
 > Store raw numerical sensor data in high or low sampling frequency.
 
