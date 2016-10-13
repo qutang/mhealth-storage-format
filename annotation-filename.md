@@ -24,8 +24,6 @@ Annotation files are divided into **hourly** files.
 
 See a predefined [list](#) of event id and corresponding event types.
 
-
-
 {% endmethod %}
 
 
