@@ -33,8 +33,6 @@ Feature files could be in arbitrary length. But for on-the-fly computation, it i
 3. UPPERCASE style, allowed characters: *alphabets* and *digits*.
 4. Required.
 
-
-
 ### ANNOTATORID
 
 
