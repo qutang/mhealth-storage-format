@@ -65,6 +65,7 @@ FeatureType.FEATUREID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.feature.csv[
 ##### File format
 
 
+
 ### `class` file
 
 > Store class labels used for machine learning tasks derived from `annotation`, `event` or `note` files.
