@@ -26,6 +26,8 @@ This often ships with source code that indicates the computation of the feature,
 
 For single feature file: `Correlation`, `DominantFrequency`, `Variance`, `ActivityCount`
 
+For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`
+
 {% endmethod %}
 
 ### FEATUREID
