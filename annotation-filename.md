@@ -39,8 +39,6 @@ Annotation files are divided into **hourly** files.
 3. Optional, only used when SENSORID is not enough to globally identify an event type.
 See a predefined [list](#) of event id and corresponding event types.
 
-
-
 {% method %}
 
 
