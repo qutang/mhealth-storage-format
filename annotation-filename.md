@@ -22,11 +22,7 @@ Annotation files are divided into **hourly** files.
 #### Examples
 `SpadesLab`, `SpadesTwoDays`, `SpadesThreeMonths`, `UserDefined`, `CrowdSourcing`
 
-See a predefined [list](#) of event id and corresponding event types.
-
 {% endmethod %}
-
-
 
 ### SENSORID
 
