@@ -42,7 +42,7 @@ For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`.
 #### Examples
 
 For feature set: `DOMINANTWRIST`, `DOMINANTWRIST-PARTICIPANT1TO3`
-For single feature: `DOMIANTWRIST-CORRELATION`
+For single feature: `DOMIANTWRIST-CORRELATION`, `[IMEI]-CORRELATION`
 
 {% endmethod %}
 
