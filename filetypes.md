@@ -1,4 +1,4 @@
-# File types
+# File types quickview
 
 These file types will appear as suffix in a filename, for example,
 
