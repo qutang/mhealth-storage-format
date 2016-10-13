@@ -66,7 +66,7 @@ See the predefined [list](#) for recommended sensor id sources for different sen
 {% endmethod %}
 
 {% method %}
-### DATAID
+### DATATYPE
 
 1. A local unique identifier for a specific sensor on a device. For single sensor device, it could be omitted. For IMU devices, it could be a descriptive string.
 
@@ -81,6 +81,25 @@ See the predefined [list](#) for recommended sensor id sources for different sen
 `ACCEL`, `GYRO`
 
 See a predefined [list](#) for recommended data id sources for different data types.
+
+{% endmethod %}
+
+{% method %}
+
+
+
+### VersionCode
+1. Used to specify the version for the specific sensor, as firmware or software may be upgraded. This is used to distinguish data collected from the same sensor but with different firmware or software version.
+
+2. CamelStyle, allowed characters: *alphabets* and *digits*.
+
+3. Optional. If omitted, use `NA` as default.
+
+{% common %}
+
+#### Examples
+
+`V1`, `V2`, `FW10`, `SW23`
 
 {% endmethod %}
 
