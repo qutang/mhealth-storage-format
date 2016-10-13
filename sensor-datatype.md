@@ -18,6 +18,6 @@
 | `GPU` | `USAGE` | `PERCENTAGE`
 | `RAM` | `USAGE` | `PERCENTAGE`, `MB`
 | `ExternalStorage` | `USAGE` | `PERCENTAGE`, `MB`
-| `InternalStorage` | `INSTORAGE` | `USAGE` | `PERCENTAGE`, `MB`
+| `InternalStorage` | `USAGE` | `PERCENTAGE`, `MB`
 
 
