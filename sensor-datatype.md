@@ -12,7 +12,7 @@
 | `GPSLocation` | `LATITUDE`, `LONGITUDE` | `DEGREE`, `RADIUS`
 | `WifiSignal` | `[NETWORK_NAME]` | NA
 | `CellularSignal` | `[PROVIDER_NAME]` | NA
-| `BluetoothSignal` | `BT` | `[NODE_NAME]` | NA
+| `BluetoothSignal` | `[NODE_NAME]` | NA
 | `HeartRate` | `HR` | `HR` | `BPM`
 | `CPU` | `CPU` | `USAGE` | `PERCENTAGE`
 | `GPU` | `GPU` | `USAGE` | `PERCENTAGE`
