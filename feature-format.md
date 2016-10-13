@@ -5,7 +5,7 @@ Store numerical or categorical feature data derived from `sensor` or `event` fil
 In csv format, separated by `,`, no white space.
 
 ```
-HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
+HEADER_TIME_STAMP,START_TIME,STOP_TIME,[FEATURE_NAME],...
 2015-01-05 15:23:00.244,2015-01-05 15:20:00.244,2015-01-05 15:21:00.244,Walking
 ```
 
