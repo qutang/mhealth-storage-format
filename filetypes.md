@@ -67,15 +67,3 @@ FeatureType.FEATUREID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.feature.csv[
 HEADER_TIME_STAMP,START_TIME,STOP_TIME,[FEATURE_NAME],...
 2015-01-05 15:23:00.244,2015-01-05 15:20:00.244,2015-01-05 15:21:00.244,1.44,...
 ```
-
-### `class` file
-
-> Store class labels used for machine learning tasks derived from `annotation`, `event` or `note` files.
-
-### `model` file
-
-> Store model definition including hyper parameters and trained structure.
-
-### `stat` file
-
-> Store summary or statistics information derived from any other files.
