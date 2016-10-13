@@ -13,7 +13,7 @@ Event files are divided into **daily** files, as hourly files will be too sparse
 {% method %}
 ### EventType
 
-1. Used to describe the type of event.
+1. Used to describe the type of event, should be locally unique.
 
 2. CamelStyle, allowed characters: *alphabets* and *digits*.
 
