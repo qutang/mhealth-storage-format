@@ -5,7 +5,7 @@ Store numerical or categorical feature data derived from `sensor` or `event` fil
 ## Filename convention
 
 ```
-FeatureType.SOURCEID-FEATUREID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.feature.csv
+FeatureType.FEATUREID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.feature.csv
 ```
 
 Feature files could be in arbitrary length. But for on-the-fly computation, it is recommended to store features in **hourly** length to keep the file size reasonably small for fast I/O.
