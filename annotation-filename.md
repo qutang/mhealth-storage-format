@@ -1,6 +1,6 @@
 # `annotation`
 
-Store **formatted** event information (numerical or categorical) happens at a time point, such as EMA prompt questions and responses.
+Store **formatted** annotations from a predefined or user defined annotation set.
 
 
 
