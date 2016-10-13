@@ -38,6 +38,9 @@ For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`
 2. UPPERCASE style, allowed characters: *alphabets* and *digits*.
 3. Required.
 
+{% common %}
+#### Examples
+
 {% endmethod %}
 
 ### VERSIONCODE
