@@ -40,6 +40,10 @@ HEADER_TIME_STAMP,DIRECTION,NUMBER,DURATION_IN_SECONDS
 ### `annotation` file
 > Store annotation information by user or by annotator. Annotation set may be from user definition or predefined annotation set.
 
+##### Filename Convention
+
+##### File format
+
 ### `log` file
 
 > Store **formatted** debug log information for devices.
