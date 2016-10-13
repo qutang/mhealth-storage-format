@@ -33,6 +33,7 @@ EventType.SENSORID-EVENTID.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 
 ##### File format
 
+
 ### `annotation` file
 
 > Store annotation information by user or by annotator. Annotation set may be from user definition or predefined annotation set.
