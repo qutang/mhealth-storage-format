@@ -24,9 +24,9 @@ This often ships with source code that indicates the computation of the feature,
 
 #### Examples
 
-For single feature file: `Correlation`, `DominantFrequency`, `Variance`, `ActivityCount`
+For single feature file: `Correlation`, `DominantFrequency`, `Variance`, `ActivityCount`.
 
-For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`
+For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`.
 
 {% endmethod %}
 
@@ -41,7 +41,7 @@ For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`
 {% common %}
 #### Examples
 
-
+`DOMINANTWRIST`
 
 {% endmethod %}
 
