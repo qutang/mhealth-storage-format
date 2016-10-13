@@ -37,6 +37,9 @@
 | --- | --- | --- |
 | DIRECTION | Categorical | `In`, `Out` |
 | NUMBER | String | e.g. `6170000000` |
+| LENGTH[^1] | Numerical | e.g. 100 |
+
+[^1] Number of words
 
 ## `NearbyPlace`
 
