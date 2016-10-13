@@ -33,20 +33,6 @@ Feature files could be in arbitrary length. But for on-the-fly computation, it i
 3. UPPERCASE style, allowed characters: *alphabets* and *digits*.
 4. Required.
 
-### ANNOTATORID
-
-
-
-1. local identifier for event types.
-
-2. UPPERCASE style, allowed characters: *alphabets*.
-
-3. Required.
-
-4. If it's user's own annotation, the ANNOTATORID should be the same as PARTICIPANT ID.
-
-
-
 ### VERSIONCODE
 
 
