@@ -23,7 +23,7 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 
 {% endmethod %}
 
-### `HEADER_TIME_STAMP` format
+### `HEADER_TIME_STAMP`, `START_TIME`, `STOP_TIME` format
 
 1. In local time zone, meaning the time zone where event happens. Time zone can be identified through [filename convention](#).
 
