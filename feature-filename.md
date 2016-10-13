@@ -41,8 +41,6 @@ Feature files could be in arbitrary length. But for on-the-fly computation, it i
 
 ### Timestamp
 
-
-
 1. Timestamp has the same convention as that of sensor data. The time represents the first row of annotation.
 
 
