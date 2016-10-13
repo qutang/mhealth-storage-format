@@ -35,6 +35,8 @@ See a predefined [list](#) of event id and corresponding event types.
 
 {% endmethod %}
 
+{% method %}
+
 ### EVENTID
 
 1. local identifier for event types.
@@ -44,6 +46,8 @@ See a predefined [list](#) of event id and corresponding event types.
 3. Optional, only used when SENSORID is not enough to globally identify an event type.
 
 See a predefined [list](#) of event id and corresponding event types.
+
+{% endmethod %}
 
 {% method %}
 
