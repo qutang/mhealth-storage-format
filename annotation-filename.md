@@ -39,6 +39,11 @@ Annotation files are divided into **hourly** files.
 3. Required.
 4. If it's user's own annotation, the ANNOTATORID should be the same as PARTICIPANT ID.
 
+### VERSIONCODE
+
+1. It's possible annotation set gets updated, then use `VERSIONCODE` to indicate the difference.
+2. Optional, if omit, use `NA` instead.
+
 ### Timestamp
 
 1. Timestamp has the same convention as that of sensor data. The time represents the first row of annotation.
