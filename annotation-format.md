@@ -22,7 +22,7 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 | STOP_TIME | 3 | String | e.g. `2015-01-05 15:23:00.244` | Yes |
 | LABEL_NAME[^1] | 4 | String | e.g. Walking | Yes |
 
-[^1] Should be locally unique among the annotation set
+[^1] Should be locally unique among the annotation set.
 5. Optional columns after `LABEL_NAME`
      * `CONFIDENCE`, numerical value indicating the 
 
