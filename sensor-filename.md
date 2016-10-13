@@ -72,7 +72,7 @@ See the predefined [list](#) for recommended sensor id sources for different sen
 
 2. UPPERCASE, allowed characters: *alphabets* and *digits*.
 
-3. Optional, if omitted, don't put `-` after `DEVICEID`.
+3. Optional, if omitted, don't put `-` after `SENSORID`.
 
 {% common %}
 
