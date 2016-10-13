@@ -5,7 +5,7 @@ Store **formatted** annotations from a predefined or user defined annotation set
 ## Filename convention
 
 ```
-AnnotationSet.ANNTATIONSETID-ANNOTATORID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.annotation.csv
+AnnotationSet.ANNOTATIONSETID-ANNOTATORID-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.annotation.csv
 ```
 
 Annotation files are divided into **hourly** files.
@@ -17,6 +17,7 @@ Annotation files are divided into **hourly** files.
 1. Used to represent the name of the annotation set.
 2. CamelStyle, allowed characters: *alphabets* and *digits*.
 3. Required.
+4. There should be a file named `AnnotationSet.ANNOTATIONSETID-VERSIONCODE.ontology.csv` associated with the dataset.
 
 {% common %}
 #### Examples
