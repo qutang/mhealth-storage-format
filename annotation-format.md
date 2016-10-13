@@ -23,6 +23,7 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 | PARTICIPANT_ID | last | String | e.g. SPADES_1 | No | 
 
 [^1] Should be locally unique among the annotation set.
+
 [^2] 0 means random guess, 1 means for sure.
 
 ### `HEADER_TIME_STAMP`, `START_TIME`, `STOP_TIME` format
