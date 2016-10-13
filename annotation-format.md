@@ -22,11 +22,10 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 | STOP_TIME | 3 | String | e.g. `2015-01-05 15:23:00.244` | Yes |
 | LABEL_NAME[^1] | 4 | String | e.g. Walking | Yes |
 | CONFIDENCE[^2] | 5 | 0-1 | e.g. 0.5 | No |
+| PARTICIPANT_ID | last | String | e.g. SPADES_1 | No | 
 
 [^1] Should be locally unique among the annotation set.
 [^2] 0 means random guess, 1 means for sure.
-
-**Note that if containing multiple participants, `PARTICIPANT_ID` should be appended as the last column.**
 
 {% endmethod %}
 
