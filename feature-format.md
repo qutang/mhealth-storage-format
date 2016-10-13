@@ -1,10 +1,5 @@
 # `feature`
-
-
-
-Store **formatted** annotations from a predefined or user defined annotation set.
-
-
+Store numerical or categorical feature data derived from `sensor` or `event` files.
 
 ## File format
 
