@@ -50,4 +50,4 @@
 | NAME | String | e.g. CVS |
 | DISTANCE\_IN\_[UNIT][^3] | Numerical | e.g. 1.4 |
 
-[^3] UNIT could be `MILES`, `METERS`
+[^3] UNIT could be `MILES`, `METERS`. Optional.
