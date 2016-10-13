@@ -43,21 +43,12 @@ See a predefined [list](#) of event id and corresponding event types.
 
 {% endmethod %}
 
-{% method %}
-
 ### EVENTTYPE
 
 1. Same as EventType but in uppercase.
 
 2. UPPERCASE style, allowed characters: *alphabets* and *digits*.
 
-{% common %}
-
-#### Examples
-
-Phone event id: `[IMEI]-PhoneCall`
-
-{% endmethod %}
 
 {% method %}
 
