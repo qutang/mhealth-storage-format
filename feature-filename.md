@@ -30,7 +30,7 @@ For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`
 
 {% endmethod %}
 
-### SOURCEID
+### FEATUREID
 
 1. Locally unique identifier for among all features.
 2. Globally unique identifier when combining with VERSIONCODE.
