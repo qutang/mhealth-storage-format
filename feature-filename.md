@@ -32,7 +32,8 @@ For feature set file: `TimeDomainFeatures`, `DominantWristFeatures`
 
 ### SOURCEID
 
-1. Either 
+1. SENSORID-EVENTID
+2. Either one is optional, depending on where this sensor comes from.
 
 ### FEATUREID
 
