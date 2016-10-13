@@ -5,7 +5,7 @@ Store **formatted** event information (numerical or categorical) happens at a ti
 ## Filename convention
 
 ```
-EventType.EVENTTYPE-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
+EventType.SENSORID-EVENTTYPE-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.event.csv
 ```
 
 Event files are divided into **daily** files, as hourly files will be too sparse to be insightful.
