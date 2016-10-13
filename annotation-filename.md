@@ -19,24 +19,8 @@ Annotation files are divided into **hourly** files.
 3. Required.
 
 {% common %}
-
-
-
 #### Examples
-
-
-
-Smart phone events: `EMA`, `PhoneCall`, `PhoneSMS`, `Network`, `Battery`, `Bluetooth`, `CPU`, `RAM`, `ExternalStorage`, `InternalStorage`.
-
-
-
-Indoor events: `ObjectMove`, `ObjectStatus`.
-
-
-
-Outdoor events: `NearbyPlace`.
-
-
+`SpadesLab`
 
 See a predefined [list](#) of event id and corresponding event types.
 
