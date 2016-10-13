@@ -12,8 +12,6 @@ Feature files could be in arbitrary length. But for on-the-fly computation, it i
 
 {% method %}
 
-
-
 ### AnnotationSet
 
 
