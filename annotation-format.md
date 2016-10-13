@@ -21,12 +21,6 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 
 {% endmethod %}
 
-
-
-
-
-
-
 ### `HEADER_TIME_STAMP` format
 
 
