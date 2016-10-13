@@ -9,7 +9,7 @@
 | `Battery` | `LEVEL` | `PERCENTAGE`, `VOLTAGE`
 | `Sound` | `VOL` | `DB`
 | `Light` | `BRIGHTNESS` | `LUM`
-| `GPSLocation` | `GPS` | `LATITUDE`, `LONGITUDE` | `DEGREE`, `RADIUS`
+| `GPSLocation` | `LATITUDE`, `LONGITUDE` | `DEGREE`, `RADIUS`
 | `WifiSignal` | `WIFI` | `[NETWORK_NAME]` | NA
 | `CellularSignal` | `CELL` | `[PROVIDER_NAME]` | NA
 | `BluetoothSignal` | `BT` | `[NODE_NAME]` | NA
