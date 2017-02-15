@@ -13,25 +13,25 @@
 
 ## Participant ID
 
-1. Allowed characters: *alphabets* and *digits*.
+1. Allowed characters: _alphabets_ and _digits_.
 
 2. Globally Unique.
 
 3. Used as directory name.
 
-### [Participant ID]/MasterSynced
+### \[Participant ID\]/MasterSynced
 
 1. Synchronized **sensor**, **feature**, **event**, **annotation **files, stored in mhealth specification.
 
-2. Files are divided **hourly**, in folder `MasterSynced/YYYY/MM/DD/`
+2. Files are divided **hourly**, in folder `MasterSynced/YYYY/MM/DD/HH/`
 
-### [Participant ID]/OriginalRaw
+### \[Participant ID\]/OriginalRaw
 
 1. Original files stored in manufacturer's format.
 
 2. Arbitrary directory structure.
 
-### [Participant ID]/Derived
+### \[Participant ID\]/Derived
 
 1. Store data files derived or merged from files in `MasterSynced` folder. Such as **feature** files, **class** files, **model** files, ema summary files.
 
@@ -42,3 +42,6 @@
 1. Store data files derived and merged from files in each participant's `MasterSynced` or `Derived` folders.
 
 2. `SetName` is used to specify the time or participant characte of a set of derived files. For example, `AllTimeMale`, `LabSessionAdults` and so on.
+
+
+

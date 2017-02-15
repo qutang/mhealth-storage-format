@@ -1,12 +1,8 @@
 # mHealth Specification
 
-mHealth specification is a machine and human readable, extensible *physical*, *physiological* and *contextual* data storage format.
+mHealth specification is a machine and human readable, extensible _physical_, _physiological_ and _contextual_ data storage format.
 
 ---
 
-Last update: 2016-10-10 15:30:00, NewYork/America
-
 Author: [Qu Tang](http://qutang.github.io/cv/)
-
-
 
