@@ -1,12 +1,12 @@
 ---
 description: >-
-  mHealth specification is a machine and human readable, extensible physical,
+  mHealth storage format is a machine and human readable, extensible physical,
   physiological and contextual data storage format.
 ---
 
 # mHealth storage format
 
-mHealth specification is a machine and human readable, extensible _physical_, _physiological_ and _contextual_ data storage format.
+mHealth storage format is a machine and human readable, extensible _physical_, _physiological_ and _contextual_ data storage format.
 
 * High-frequency raw sensor data stored in hourly files for the ease of distributed/parallel computing
 * Annotation and event data stored in formatted csv files
