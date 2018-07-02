@@ -8,7 +8,7 @@
 
 ## Directory structure
 
-* [Overview](directory-structure/overview.md)
+* [Overview of directory structure](directory-structure/overview.md)
 
 ## File types
 
