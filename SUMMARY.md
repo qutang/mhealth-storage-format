@@ -2,10 +2,6 @@
 
 * [Introduction](README.md)
 
-## Overview
-
-* [mHealth storage format](overview/mhealth-specification.md)
-
 ## Directory structure
 
 * [Overview of directory structure](directory-structure/overview.md)
