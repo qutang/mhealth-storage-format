@@ -1,11 +1,19 @@
-# File types quickview
+---
+description: >-
+  A quick review of the supported file types in mhealth-storage compatible
+  dataset
+---
 
-These file types will appear as suffix in a filename, for example,
+# Quick view of supported file types
 
-```text
-xxx.xxxxxx.2016-01-01-08-00-00-000-[M/P]HHmm.sensor.csv
-xxx.xxxxxx.2016-01-01-09-00-00-110-[M/P]HHmm.log.csv
-```
+File types are identified in the suffix before file extension, separated by symbol \`.\`. Current format reserves identifiers for six file types: sensor, event, annotation, feature, class and log. You may extend with your own file type identifier.
+
+* xxx.xxxxxx.2016-01-01-08-00-00-000-\[M/P\]HHmm.**sensor**.csv
+* xxx.xxxxxx.2016-01-01-09-00-00-110-\[M/P\]HHmm.**event**.csv
+* xxx.xxxxxx.2016-01-01-09-00-00-110-\[M/P\]HHmm.**annotation**.csv
+* xxx.xxxxxx.2016-01-01-09-00-00-110-\[M/P\]HHmm.**feature**.csv
+* xxx.xxxxxx.2016-01-01-09-00-00-110-\[M/P\]HHmm.**class**.csv
+* xxx.xxxxxx.2016-01-01-09-00-00-110-\[M/P\]HHmm.**log**.csv
 
 ## File types to store raw information
 

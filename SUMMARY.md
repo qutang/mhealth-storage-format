@@ -8,7 +8,7 @@
 
 ## File types
 
-* [File types quickview](file-types/file-types-quickview.md)
+* [Quick view of supported file types](file-types/file-types-quickview.md)
 
 ## sensor Data
 
