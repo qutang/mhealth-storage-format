@@ -1,29 +1,39 @@
-# Summary
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Overview
-* [mhealth specification](README.md)
+
+* [mHealth storage format](overview/mhealth-specification.md)
 
 ## Directory structure
-* [Overview](overview.md)
+
+* [Overview](directory-structure/overview.md)
 
 ## File types
-* [File types quickview](filetypes.md)
+
+* [File types quickview](file-types/file-types-quickview.md)
 
 ## sensor Data
-* [Filename convention](sensor-filename.md)
-* [File format](sensor-format.md)
-* [Sensor types](sensor-sensortype.md)
-* [Data types](sensor-datatype.md)
+
+* [Filename convention](sensor-data/filename-convention.md)
+* [File format](sensor-data/file-format.md)
+* [Sensor types](sensor-data/sensor-types.md)
+* [Data types](sensor-data/data-types.md)
 
 ## event Data
-* [Filename convention](event-filename.md)
-* [File format](event-format.md)
-* [Event types](event-eventype.md)
+
+* [Filename convention](event-data/filename-convention.md)
+* [File format](event-data/file-format.md)
+* [Event types](event-data/event-types.md)
 
 ## annotation Data
-* [Filename convention](annotation-filename.md)
-* [File format](annotation-format.md)
+
+* [Filename convention](annotation-data/filename-convention.md)
+* [File format](annotation-data/file-format.md)
 
 ## feature Data
-* [Filename convention](feature-filename.md)
-* [File format](feature-format.md)
+
+* [Filename convention](feature-data/filename-convention.md)
+* [File format](feature-data/file-format.md)
+
