@@ -8,7 +8,7 @@ Used to store raw numerical sensor data in high or low sampling frequency.
 SensorType-DataType.SENSORID-DATATYPE-VERSIONCODE.YYYY-MM-DD-HH-mm-ss-SSS-[M/P]HHmm.sensor.csv(.gz)
 ```
 
-### SensorType {#SensorType}
+### SensorType <a id="SensorType"></a>
 
 1. Used to specify the type of sensor \(or device, if multiple sensors are on the same device, such as phone, IMU device or smart watch\).
 2. Locally unique.

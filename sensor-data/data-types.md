@@ -3,7 +3,7 @@
  **User can add their own definition of data types when using this specification**.
 
 | DataType | MEASUREMENT | UNIT |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | `AccelerometerCalibrated` | `X`, `Y`, `Z` | `G`, `MS` |
 | `Gyroscope` | `PITCH`, `ROLL`, `YAW` | `DEGREE`, `RADIUS` |
 | `Battery` | `LEVEL` | `PERCENTAGE`, `VOLTAGE` |

@@ -12,10 +12,11 @@ description: >-
      - MasterSynced
      - OriginalRaw
      - Derived
+         - [SetName]
+     - Meta
          - location_mapping.csv
          - subject.csv
          - sessions.csv
-         - [SetName]
  - [Participant ID 2]
      - MasterSynced
      - OriginalRaw
@@ -24,10 +25,11 @@ description: >-
          - subject.csv
          - sessions.csv
          - [SetName]
- - DerivedCrossParticipants
+ - MetaCrossParticipants
      - location_mapping.csv
      - sessions.csv
      - subjects.csv
+ - DerivedCrossParticipants
      - [SetName]
 ```
 
@@ -48,10 +50,20 @@ description: >-
 2. Arbitrary directory structure.
 3. Recommended to divide sub directories by the type of sensor or data.
 
+### Meta
+
+1. Store meta files that are additional information to files in `MasterSynced`folder.
+2. Meta files should be kept unchanged all the time.
+
 ### Derived
 
 1. Store data files derived or merged from files in `MasterSynced` folder. Such as **feature** files, **class** files, **model** files, ema summary files.
 2. `SetName` is used to specify any common properties of a set of derived files. Popular names could be `AllTime`,`LabSession`,`Weekend`, `FebruaryMorning` or the combination between them.
+
+## MetaCrossParticipants
+
+1. Store meta information that is aggregated from files in each participant's  `Meta` folders.
+2. Meta information is the unchanged information for a dataset.
 
 ## DerivedCrossParticipants
 

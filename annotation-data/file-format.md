@@ -14,7 +14,7 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 ### Columns
 
 | COLUMN\_NAME | POSITION | Value type | Values | Required |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- |
 | HEADER\_TIME\_STAMP | 1 | String | e.g. `2015-01-05 15:23:00.244` | Yes |
 | START\_TIME | 2 | String | e.g. `2015-01-05 15:23:00.244` | Yes |
 | STOP\_TIME | 3 | String | e.g. `2015-01-05 15:23:00.244` | Yes |
