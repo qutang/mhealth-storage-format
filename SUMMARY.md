@@ -10,6 +10,7 @@
 ## Meta files
 
 * [Overview](meta-files/overview.md)
+* [Sessions.csv](meta-files/sessions.csv.md)
 
 ## File types
 
