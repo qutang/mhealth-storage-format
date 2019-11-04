@@ -62,7 +62,7 @@ description: >-
 1. Store data files derived or merged from files in `MasterSynced` folder. Such as **feature** files, **class** files, **model** files, ema summary files.
 2. `SetName` is used to specify any common properties of a set of derived files. Popular names could be `AllTime`,`LabSession`,`Weekend`, `FebruaryMorning` or the combination between them.
 
-## MetaCrossParticipants
+## [MetaCrossParticipants](../meta-files/overview.md#meta-csv-files-in-metacrossparticipants-folder)
 
 1. Store meta information that is aggregated from files in each participant's  `Meta` folders.
 2. Meta information is the unchanged information for a dataset.
