@@ -21,7 +21,7 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,[FEATURE_NAME],...
 | \[FEATURE\_NAME\] | 4-? | String | e.g. `X_CORRELATION`, `WRIST_X_CORRELATION` | Yes |
 | PARTICIPANT\_ID | last | String | e.g. SPADES\_1 | No |
 
- Actual feature name, there may be multiple ones.
+Actual feature name, there may be multiple ones.
 
 ### `HEADER_TIME_STAMP`, `START_TIME`, `STOP_TIME` format
 

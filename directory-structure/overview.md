@@ -11,19 +11,20 @@ description: >-
  - [Participant ID 1]
      - MasterSynced
      - OriginalRaw
-     - Derived
-         - [SetName]
      - Meta
          - location_mapping.csv
          - subject.csv
          - sessions.csv
+     - Derived
+         - [SetName]
  - [Participant ID 2]
      - MasterSynced
      - OriginalRaw
-     - Derived
+     - Meta
          - location_mapping.csv
          - subject.csv
          - sessions.csv
+     - Derived
          - [SetName]
  - MetaCrossParticipants
      - location_mapping.csv

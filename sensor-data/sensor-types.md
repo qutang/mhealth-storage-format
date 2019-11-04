@@ -1,6 +1,6 @@
 # Sensor types
 
- **User can add their own definition of sensor types when using this specification**.
+**User can add their own definition of sensor types when using this specification**.
 
 | SensorType | SENSORID | DataType examples |
 | :--- | :--- | :--- |

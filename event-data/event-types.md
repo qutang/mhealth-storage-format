@@ -14,7 +14,7 @@
 | NUMBER | Encrypted String | e.g. `xxxxxxxxxx` | Yes |
 | DURATION\_IN\_\[UNIT\] | numeric | e.g. 5 | Yes |
 
- UNIT could be `HOURS`, `MINUTES`, `SECONDS`
+UNIT could be `HOURS`, `MINUTES`, `SECONDS`
 
 ## `PhoneSMS`
 
@@ -24,7 +24,7 @@
 | NUMBER | Encrypted String | e.g. `xxxxxxxxxxxxxx` | Yes |
 | LENGTH | Numerical | e.g. 100 | No |
 
- Number of words in the message.
+Number of words in the message.
 
 ## `NearbyPlace`
 
@@ -33,5 +33,5 @@
 | NAME | String | e.g. CVS | Yes |
 | DISTANCE\_IN\_\[UNIT\] | Numerical | e.g. 1.4 | No |
 
- UNIT could be `MILES`, `METERS`.
+UNIT could be `MILES`, `METERS`.
 

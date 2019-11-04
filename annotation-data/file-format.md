@@ -22,9 +22,9 @@ HEADER_TIME_STAMP,START_TIME,STOP_TIME,LABEL_NAME
 | CONFIDENCE | 5 | 0-1 | e.g. 0.5 | No |
 | PARTICIPANT\_ID | last | String | e.g. SPADES\_1 | No |
 
- Should be locally unique among the annotation set.
+Should be locally unique among the annotation set.
 
- 0 means random guess, 1 means for sure.
+0 means random guess, 1 means for sure.
 
 ### `HEADER_TIME_STAMP`, `START_TIME`, `STOP_TIME` format
 

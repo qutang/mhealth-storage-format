@@ -1,6 +1,6 @@
 # Data types
 
- **User can add their own definition of data types when using this specification**.
+**User can add their own definition of data types when using this specification**.
 
 | DataType | MEASUREMENT | UNIT |
 | :--- | :--- | :--- |
