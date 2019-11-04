@@ -6,7 +6,7 @@ description: A list of meta files for the datasets.
 
 ## Meta csv files in subject folder
 
-* **Sessions.csv**: Data collection sessions of the subject.
+* \*\*\*\*[**Sessions.csv**](sessions.csv.md): Data collection sessions of the subject.
 * **Subject.csv:** Demographic information of the subject.
 * **Exceptions.csv:** Exception notes during data collection sessions of the subject.
 * **SensorPlacements.csv:** Initial sensor placements of the subject.

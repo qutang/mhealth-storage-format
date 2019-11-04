@@ -39,8 +39,9 @@ description: >-
 1. Allowed characters: _alphabets_ and _digits_.
 2. Globally Unique.
 3. Used as directory name.
+4. Prepend `0` before subject ids lower than 10.
 
-### MasterSynced
+###  MasterSynced
 
 1. Synchronized **sensor**, **feature**, **event**, **annotation** files, stored in mhealth storage format.
 2. Files are divided **hourly**, in folder `MasterSynced/YYYY/MM/DD/HH/`
@@ -51,7 +52,7 @@ description: >-
 2. Arbitrary directory structure.
 3. Recommended to divide sub directories by the type of sensor or data.
 
-### Meta
+### [Meta](../meta-files/overview.md)
 
 1. Store meta files that are additional information to files in `MasterSynced`folder.
 2. Meta files should be kept unchanged all the time.
