@@ -15,7 +15,7 @@ description: A list of meta files for the datasets.
 
 ## Meta csv files in MetaCrossParticipants folder
 
-* **Sessions.csv**: Concatenated data collection sessions of all the subjects.
+* \*\*\*\*[**Sessions.csv**](sessions.csv.md): Concatenated data collection sessions of all the subjects.
 * **Subjects.csv:** Concatenated demographic information of all the subjects.
 * **Exceptions.csv:** Concatenated exception notes during data collection sessions of all the subjects.
 * **SensorPlacements.csv:** Concatenated list of initial sensor placements of all the subjects.
