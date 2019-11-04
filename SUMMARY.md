@@ -7,6 +7,10 @@
 
 * [Overview of directory structure](directory-structure/overview.md)
 
+## Meta files
+
+* [Overview](meta-files/overview.md)
+
 ## File types
 
 * [Quick view of supported file types](file-types/file-types-quickview.md)
