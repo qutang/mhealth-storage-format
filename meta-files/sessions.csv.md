@@ -12,6 +12,6 @@ description: The data collection sessions information
 | YYYY-mm-dd HH:MM:SS | YYYY-mm-dd HH:MM:SS | SPADES\_LAB | Contact email of the session supervisor | Brief description of the session |
 
 {% hint style="info" %}
-For the concatenated file, the first column should be `SUBJECT_ID`.
+For the concatenated file, add an extra column in the beginning with column name`SUBJECT_ID`.
 {% endhint %}
 
